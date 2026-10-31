@@ -1,13 +1,12 @@
 {
   "file": "Realms-of-Concis-26.3.zip",
-  "bytes": 10939886,
-  "sha1": "d1b24109b40a4ffe25aeef38ca0cd8fd41177d6c",
-  "sha256": "ddd73bd748a62cf2ea9a00e817fc203eab9d0e633fa66cbea424bb783b431aee",
+  "bytes": 11040867,
+  "sha1": "3c40de593b3965fde6823b8ba7340837ad6a8c68",
+  "sha256": "24ec2d207ccfc8384baf808d2d52171ba4b08520b42cbc32338937788fcf53df",
   "id": "bb84f731-2d8f-5aae-a152-2f267fc11905",
-  "files": 323,
-  "pngs": 234,
+  "files": 458,
+  "pngs": 318,
   "metadataRemoved": true,
   "pngCompression": "lossless",
-  "sourceCodeIncluded": false,
-  "publicHostingAuthorized": true
+  "sourceCodeIncluded": false
 }
