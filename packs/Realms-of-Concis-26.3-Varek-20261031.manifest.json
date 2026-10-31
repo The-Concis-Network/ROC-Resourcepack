@@ -1,0 +1,14 @@
+{
+  "file": "Realms-of-Concis-26.3-Varek-20261031.zip",
+  "bytes": 11629350,
+  "sha1": "fdd2433d10c9b64b14e1b57d98d6d7d7d360ae9d",
+  "sha256": "099e39c47d641399d2353939daae98c310ea8e5c8f087e357005c9e85a1a6234",
+  "id": "bb84f731-2d8f-5aae-a152-2f267fc11905",
+  "files": 973,
+  "pngs": 452,
+  "metadataRemoved": true,
+  "pngCompression": "lossless",
+  "sourceCodeIncluded": false,
+  "publicHostingAuthorized": true,
+  "scope": "Live build-server baseline plus Varek duel sounds"
+}
