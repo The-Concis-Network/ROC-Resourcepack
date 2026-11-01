@@ -1,0 +1,16 @@
+{
+  "file": "Realms-of-Concis-26.3-RarityColours-20261101.zip",
+  "sha256": "30b686fa71bcd88d1306d67e8fee7114cd04cfa1a7dfa31f8642aca00a498767",
+  "sha1": "8d611293fd88f54c265a89184ffa3718316e61e8",
+  "palette": {
+    "common": "#c4ccd0",
+    "uncommon": "#79ba86",
+    "rare": "#74b4f0",
+    "epic": "#ff5555",
+    "legendary": "#c19bea",
+    "chosen": "#f3dc91"
+  },
+  "changedEntries": 8,
+  "preservedEntries": 1136,
+  "scope": "Red Epic and purple Legendary presentation; preserve other rarity colours and existing assets"
+}
