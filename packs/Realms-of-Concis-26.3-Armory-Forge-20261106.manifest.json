@@ -1,0 +1,13 @@
+{
+  "file": "Realms-of-Concis-26.3-Armory-Forge-20261106.zip",
+  "bytes": 17250394,
+  "sha1": "bd98900eebbd7736c6ce6179b29da0c1c6f5ea7f",
+  "sha256": "2cf317ab8f656efb228590d110547d2bd55fc4f8beb22042c391a4e7d3045a36",
+  "files": 2222,
+  "pngs": 1097,
+  "metadataRemoved": true,
+  "pngCompression": "lossless",
+  "sourceCodeIncluded": false,
+  "publicHostingAuthorized": true,
+  "scope": "Visual-only Armory menu and current Forge confirmation layout; all existing pack entries preserved"
+}
