@@ -1,0 +1,13 @@
+{
+  "file": "Realms-of-Concis-26.3-Armory-Remove-AllGear-20261106.zip",
+  "bytes": 17317373,
+  "sha1": "4e60e7687d4f84bcd06fa4c59671edfa87255eac",
+  "sha256": "03a64ee4a23d3b70b8d17235d9bdf3d7744f8ae017877e102bf118b8e9dd0301",
+  "files": 2331,
+  "pngs": 1198,
+  "metadataRemoved": true,
+  "pngCompression": "lossless",
+  "sourceCodeIncluded": false,
+  "publicHostingAuthorized": true,
+  "scope": "Icon-first Armory visual trial; retains current Forge and all unrelated pack entries"
+}
