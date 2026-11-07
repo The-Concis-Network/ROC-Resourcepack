@@ -1,0 +1,13 @@
+{
+  "file": "Realms-of-Concis-26.3-Perk-Workbench-20261107.zip",
+  "bytes": 17862398,
+  "sha1": "b6c6d2c5a9e5852472f9436b828bda041aa19ab3",
+  "sha256": "8ffca2744578a27cd664c03babb20f10fc250a05d6d8751538329eed50144687",
+  "files": 2358,
+  "pngs": 1205,
+  "metadataRemoved": true,
+  "pngCompression": "lossless",
+  "sourceCodeIncluded": false,
+  "publicHostingAuthorized": true,
+  "scope": "Framed build picker and change-build button; all existing pack entries retained"
+}
