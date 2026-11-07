@@ -1,0 +1,19 @@
+{
+  "file": "Realms-of-Concis-26.3-Dismantling-20261107.zip",
+  "bytes": 18697419,
+  "sha256": "44cdea6923f829d860fc24c0a318d32d1047ddfabaeef84a03acdb0cc0183398",
+  "sha1": "ec38451f933ed90ae8f13584cd9dc990efcad308",
+  "scope": "Salvage Bench exact texture atlas registration, all existing pack entries unchanged",
+  "model_elements": 44,
+  "texture_atlas": [
+    512,
+    512
+  ],
+  "new_entries": [
+    "assets/minecraft/atlases/items.json",
+    "assets/minecraft/atlases/blocks.json"
+  ],
+  "originals_and_source_excluded": true,
+  "png_metadata_prepared_losslessly": true,
+  "publicHostingAuthorized": true
+}
