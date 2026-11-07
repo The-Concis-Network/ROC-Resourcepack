@@ -1,0 +1,13 @@
+{
+  "file": "Realms-of-Concis-26.3-Reforge-Font-Fix-20261107.zip",
+  "bytes": 18673315,
+  "sha1": "63af32738614caf8986161f44dec70ac0cdff498",
+  "sha256": "95f054163f6e6be8f2878a8e514a2fce620413e5537fb1a5fa2dcd7c01360268",
+  "files": 2998,
+  "pngs": 1650,
+  "metadataRemoved": true,
+  "pngCompression": "lossless",
+  "sourceCodeIncluded": false,
+  "publicHostingAuthorized": true,
+  "scope": "Normalize Reforge glyphs for the actual client font atlas; Info only for stat focus; unrelated assets unchanged"
+}
