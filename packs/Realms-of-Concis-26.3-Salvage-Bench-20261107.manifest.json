@@ -1,0 +1,20 @@
+{
+  "file": "Realms-of-Concis-26.3-Salvage-Bench-20261107.zip",
+  "bytes": 18692746,
+  "sha256": "96e91c551ebb7e9ee7c4447f30870f83f70907e3a58e8486bef5e521f17a889e",
+  "sha1": "e99382d016f77f682bb64a6bfcb8b57da3b72a0d",
+  "scope": "Approved visual-only Salvage Bench model, existing pack entries unchanged",
+  "model_elements": 44,
+  "texture_atlas": [
+    512,
+    512
+  ],
+  "new_entries": [
+    "assets/concisitems/items/salvage_bench_20261107.json",
+    "assets/concisitems/models/stations/salvage_bench_20261107.json",
+    "assets/concisitems/textures/stations/salvage_bench_20261107.png"
+  ],
+  "originals_and_source_excluded": true,
+  "png_metadata_prepared_losslessly": true,
+  "publicHostingAuthorized": true
+}
