@@ -1,0 +1,13 @@
+{
+  "file": "Realms-of-Concis-26.3-Mining-Perks-20261107.zip",
+  "bytes": 17319081,
+  "sha1": "cb41b2712ba3e0b00a8e7cb10d32436836722061",
+  "sha256": "77af6ad74ca61830a8d68e7b9cf19bde185bbaabc3fd29647105db8a9de3de47",
+  "files": 2331,
+  "pngs": 1198,
+  "metadataRemoved": true,
+  "pngCompression": "lossless",
+  "sourceCodeIncluded": false,
+  "publicHostingAuthorized": true,
+  "scope": "Mining perk atlas extension; retains current Forge and all unrelated pack entries"
+}
