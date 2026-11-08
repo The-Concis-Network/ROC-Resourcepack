@@ -1,0 +1,20 @@
+{
+  "file": "Realms-of-Concis-26.3-Forge-Station-20261108.zip",
+  "bytes": 18709951,
+  "sha256": "ddfa58e6152fec5120743275bf9668112f8ec920587e1dab79b4f34126ae3550",
+  "sha1": "2506e81b103e9721210c0919cc593501a1b8d21b",
+  "scope": "Craftable Forge model and both station atlas registrations",
+  "model_elements": 25,
+  "texture_atlas": [
+    512,
+    512
+  ],
+  "new_entries": [
+    "assets/concisitems/items/forge_station_20261108.json",
+    "assets/concisitems/models/stations/forge_station_20261108.json",
+    "assets/concisitems/textures/stations/forge_station_20261108.png"
+  ],
+  "originals_and_source_excluded": true,
+  "png_metadata_prepared_losslessly": true,
+  "publicHostingAuthorized": true
+}
