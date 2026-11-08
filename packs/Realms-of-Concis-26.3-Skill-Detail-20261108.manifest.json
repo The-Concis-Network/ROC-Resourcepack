@@ -1,0 +1,18 @@
+{
+  "file": "Realms-of-Concis-26.3-Skill-Detail-20261108.zip",
+  "bytes": 18777524,
+  "sha256": "908f8eb8d969fc37934f2139a5275e307875881af9a9f3e1f0dc988583acabff",
+  "sha1": "1529c1b2f309e8cdeb76f68ccdd24c26cccab875",
+  "scope": "Add current bonuses and next unlock skill panels; preserve all existing pack entries and Hassan font",
+  "added_entries": [
+    "assets/concisitems/font/skills_20261108_bg_detail_progress.json",
+    "assets/concisitems/textures/gui/skills_20261108/bg/540502ac04e25b46db66.png",
+    "assets/concisitems/textures/gui/skills_20261108/bg/639bb7090353e2b99843.png",
+    "assets/concisitems/textures/gui/skills_20261108/bg/9ab76f52e31c8ed70b09.png",
+    "assets/concisitems/textures/gui/skills_20261108/bg/b871c297340845240b87.png",
+    "assets/concisitems/textures/gui/skills_20261108/bg/f05f586da3c43ec4ce49.png",
+    "assets/concisitems/textures/gui/skills_20261108/bg/ff5e01e776d11f8277e8.png"
+  ],
+  "originals_and_source_excluded": true,
+  "publicHostingAuthorized": true
+}
