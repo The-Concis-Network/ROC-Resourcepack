@@ -1,0 +1,19 @@
+{
+  "file": "Realms-of-Concis-26.3-Forge-Usability-Info-20261108.zip",
+  "bytes": 18710626,
+  "sha256": "7d23fb02c920e2a6c5969aa387b1c5db0ac27a245970ae9cdca93863d2ccb36c",
+  "sha1": "c17716f7121529375e595b4057b7ffdd48514cf4",
+  "scope": "Forge inventory and hand poses; compact salvage lock control icon",
+  "model_elements": 25,
+  "texture_atlas": [
+    512,
+    512
+  ],
+  "new_entries": [
+    "assets/concisitems/font/salvage_status.json",
+    "assets/concisitems/textures/font/salvage_status_20261108.png"
+  ],
+  "originals_and_source_excluded": true,
+  "png_metadata_prepared_losslessly": true,
+  "publicHostingAuthorized": true
+}
