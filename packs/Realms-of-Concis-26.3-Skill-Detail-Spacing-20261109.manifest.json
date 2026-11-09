@@ -1,0 +1,20 @@
+{
+  "file": "Realms-of-Concis-26.3-Skill-Detail-Spacing-20261109.zip",
+  "sha256": "76aff49303f7f3e22291d6f8c6a9da51acb1ca77f4ba03e9f7590203aa98e7ad",
+  "sha1": "c50047e8eb762cad041b563f1905c7ed921d0790",
+  "scope": "Equal spacing for all skill detail panels; exact existing text font gameplay and native inventory preserved",
+  "changed_existing": [
+    "assets/concisitems/font/skills_20261108_bg_detail_progress.json",
+    "assets/concisitems/font/skills_20261108_bg_help.json"
+  ],
+  "added": [
+    "assets/concisitems/font/skills_20261108_mastery_card.json",
+    "assets/concisitems/textures/gui/skill_detail_spacing_20261109/2e26f1e5f010d04dbe84.png",
+    "assets/concisitems/textures/gui/skill_detail_spacing_20261109/7dd44e49cc36b90ffd84.png",
+    "assets/concisitems/textures/gui/skill_detail_spacing_20261109/9098cfc1cf8ef134fb05.png",
+    "assets/concisitems/textures/gui/skill_detail_spacing_20261109/ac220fc8ae98b32819f4.png",
+    "assets/concisitems/textures/gui/skill_detail_spacing_20261109/e5d9f6bd97abeaabea7a.png",
+    "assets/concisitems/textures/gui/skill_detail_spacing_20261109/mastery.png"
+  ],
+  "publicHostingAuthorized": true
+}
