@@ -1,0 +1,20 @@
+{
+  "file": "Realms-of-Concis-26.3-Armor-Starter-20261109.zip",
+  "sha256": "5386fd3cc457fc9274497fd02fbd724ed42e82aa853a7e611e0faf5981de7c41",
+  "sha1": "d2301bcc8db1ff7ceb2cc97975bc6e9f810667e6",
+  "scope": "Armor starter trial: matching Armory and Combat unlock icons",
+  "changed_existing": [],
+  "added": [
+    "assets/concisitems/textures/gui/armor_starter_20261109/perks.png",
+    "assets/concisitems/textures/gui/skill_unlocks/steady_footing.png",
+    "assets/concisitems/items/gui/skill_unlocks/steady_footing.json",
+    "assets/concisitems/models/gui/skill_unlocks/steady_footing.json",
+    "assets/concisitems/textures/gui/skill_unlocks/radiant_mend.png",
+    "assets/concisitems/items/gui/skill_unlocks/radiant_mend.json",
+    "assets/concisitems/models/gui/skill_unlocks/radiant_mend.json",
+    "assets/concisitems/font/armory_armor_starter_48.json",
+    "assets/concisitems/font/armory_armor_starter_62.json",
+    "assets/concisitems/font/armory_armor_starter_80.json"
+  ],
+  "publicHostingAuthorized": true
+}
