@@ -1,0 +1,12 @@
+{
+  "file": "Realms-of-Concis-26.3-Skill-Bar-Correction-20261109.zip",
+  "sha256": "e6e583e940b725527a99ce34920f41906aaf135ca2500e6c7c93e97492470d5d",
+  "sha1": "c4d438b63d73dd47cbdcfa563eaae717a7ef8b19",
+  "scope": "Separate skill-detail and reward-track progress bar anchors",
+  "changed_existing": [
+    "assets/concisitems/font/skills_20261108_bar_big_32.json",
+    "assets/concisitems/font/skills_20261108_bar_big_30.json"
+  ],
+  "added": [],
+  "publicHostingAuthorized": true
+}
