@@ -1,0 +1,41 @@
+{
+  "file": "Realms-of-Concis-26.3-Snake-Connections-20261109.zip",
+  "sha256": "d4e09d1faa3711aa88f60af31b844b033ee964c54d6978190764218490006514",
+  "sha1": "bfc84c2faf60d2c3119818f7b5c850bcc11592a1",
+  "scope": "Clip reward-track connectors outside node rectangles; latest Farming assets and all unrelated entries preserved",
+  "changed_existing": [
+    "assets/concisitems/font/skills_20261108_snake_link_0.json",
+    "assets/concisitems/font/skills_20261108_snake_link_1.json",
+    "assets/concisitems/font/skills_20261108_snake_link_10.json",
+    "assets/concisitems/font/skills_20261108_snake_link_11.json",
+    "assets/concisitems/font/skills_20261108_snake_link_12.json",
+    "assets/concisitems/font/skills_20261108_snake_link_13.json",
+    "assets/concisitems/font/skills_20261108_snake_link_2.json",
+    "assets/concisitems/font/skills_20261108_snake_link_3.json",
+    "assets/concisitems/font/skills_20261108_snake_link_4.json",
+    "assets/concisitems/font/skills_20261108_snake_link_5.json",
+    "assets/concisitems/font/skills_20261108_snake_link_6.json",
+    "assets/concisitems/font/skills_20261108_snake_link_7.json",
+    "assets/concisitems/font/skills_20261108_snake_link_8.json",
+    "assets/concisitems/font/skills_20261108_snake_link_9.json"
+  ],
+  "added": [
+    "assets/concisitems/font/skills_20261108_snake_end_link_8.json",
+    "assets/concisitems/textures/gui/snake_connections_20261109/snake_end_link_8.png",
+    "assets/concisitems/textures/gui/snake_connections_20261109/snake_link_0.png",
+    "assets/concisitems/textures/gui/snake_connections_20261109/snake_link_1.png",
+    "assets/concisitems/textures/gui/snake_connections_20261109/snake_link_10.png",
+    "assets/concisitems/textures/gui/snake_connections_20261109/snake_link_11.png",
+    "assets/concisitems/textures/gui/snake_connections_20261109/snake_link_12.png",
+    "assets/concisitems/textures/gui/snake_connections_20261109/snake_link_13.png",
+    "assets/concisitems/textures/gui/snake_connections_20261109/snake_link_2.png",
+    "assets/concisitems/textures/gui/snake_connections_20261109/snake_link_3.png",
+    "assets/concisitems/textures/gui/snake_connections_20261109/snake_link_4.png",
+    "assets/concisitems/textures/gui/snake_connections_20261109/snake_link_5.png",
+    "assets/concisitems/textures/gui/snake_connections_20261109/snake_link_6.png",
+    "assets/concisitems/textures/gui/snake_connections_20261109/snake_link_7.png",
+    "assets/concisitems/textures/gui/snake_connections_20261109/snake_link_8.png",
+    "assets/concisitems/textures/gui/snake_connections_20261109/snake_link_9.png"
+  ],
+  "publicHostingAuthorized": true
+}
