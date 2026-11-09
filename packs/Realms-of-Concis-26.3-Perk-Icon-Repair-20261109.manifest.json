@@ -1,0 +1,12 @@
+{
+  "file": "Realms-of-Concis-26.3-Perk-Icon-Repair-20261109.zip",
+  "sha256": "091d80ab792b67c13239b7d641e97bc050b59abf2a55c7abb954b2f12c365201",
+  "sha1": "e46d8af265a60141abee47bd7998eb6638c001cc",
+  "scope": "Register all perk sprites in actual item and block atlases; retain every other pack entry",
+  "changed_existing": [
+    "assets/minecraft/atlases/items.json",
+    "assets/minecraft/atlases/blocks.json"
+  ],
+  "added": [],
+  "publicHostingAuthorized": true
+}
