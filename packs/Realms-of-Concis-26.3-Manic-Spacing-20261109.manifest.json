@@ -1,0 +1,22 @@
+{
+  "file": "Realms-of-Concis-26.3-Manic-Spacing-20261109.zip",
+  "sha256": "ee3b94b3277012eaff5c0cf7160ed5200722e5dd4b6f39883de9da30b75f2bfe",
+  "sha1": "2e55eea81e0def8102fe77788d56248473c66672",
+  "scope": "Approved diamond shovel and pickaxe icons with three matching white motion trails",
+  "changed_existing": [
+    "assets/concisitems/textures/gui/manic_mining_20261107/atlas.png",
+    "assets/concisitems/textures/gui/skill_unlocks/manic_mining.png",
+    "assets/concisitems/textures/gui/groundwork_20261108/digging.png",
+    "assets/concisitems/textures/gui/skill_unlocks/manic_digging.png",
+    "assets/concisitems/textures/gui/skills_20261108/bg/e5b6237b77f7c0f00047.png",
+    "assets/concisitems/textures/gui/skills_20261108/bg/48d4c9707a2c94c2e95a.png",
+    "assets/concisitems/textures/gui/skills_20261108/bg/e0c1529997715f13eb3d.png",
+    "assets/concisitems/textures/gui/skills_20261108/bg/c160fc8216083a40ef01.png",
+    "assets/concisitems/font/skills_20261108_bg_snake.json",
+    "assets/concisitems/textures/gui/skills_20261108/bg/c168401a94e7b3e6b3f2.png",
+    "assets/concisitems/font/skills_20261108_bg_snake_end.json",
+    "assets/concisitems/font/skills_20261108_bar_big_32.json"
+  ],
+  "added": [],
+  "publicHostingAuthorized": true
+}
