@@ -1,0 +1,12 @@
+{
+  "file": "Realms-of-Concis-26.3-Menu-Mastery-Final-20261109.zip",
+  "sha256": "6146f82b90424eebe9c0647066a658998d4d6fe06cc604a346b701c443877d10",
+  "sha1": "b8b8833644e8ce5ad7a80ea9746c34f93234bd2f",
+  "scope": "Shared semantic menu messages; approved spacing and Combat help retained; approved refined Mastery B-v2 added; gameplay preserved",
+  "changed_existing": [],
+  "added": [
+    "assets/concisitems/font/skills_20261108_mastery_card_v2.json",
+    "assets/concisitems/textures/gui/mastery_20261109/crest.png"
+  ],
+  "publicHostingAuthorized": true
+}
