@@ -1,0 +1,15 @@
+{
+  "file": "Realms-of-Concis-26.3-Sifter-Magnetic-20261109.zip",
+  "sha256": "77664fe60fe616d1e72c29f6cc9ab3a2f83250efb614fcff1583b7d3ecce381f",
+  "sha1": "0066127860a4f927b24465cac8347b06d1f28b8b",
+  "scope": "Approved Basic and Refined hand-sieve icons, blue Magnetic Refined frame",
+  "changed_existing": [
+    "assets/concisitems/textures/gui/magnetic_20261107/atlas.png",
+    "assets/concisitems/textures/gui/skill_unlocks/magnetic.png",
+    "assets/concisitems/textures/gui/groundwork_20261108/sifter.png",
+    "assets/concisitems/textures/gui/skill_unlocks/sifter.png",
+    "assets/concisitems/textures/gui/skill_unlocks/sifter_refined.png"
+  ],
+  "added": [],
+  "publicHostingAuthorized": true
+}
