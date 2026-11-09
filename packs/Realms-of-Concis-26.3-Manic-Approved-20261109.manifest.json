@@ -1,0 +1,14 @@
+{
+  "file": "Realms-of-Concis-26.3-Manic-Approved-20261109.zip",
+  "sha256": "2576046f2ee47cd4f49a608b756ed88fe7d680c20e09f65d14a8e937f8cfd345",
+  "sha1": "519f8aa09f7279d49c2c779b0ce768d0144d0a7c",
+  "scope": "Approved diamond shovel and pickaxe icons with three matching white motion trails",
+  "changed_existing": [
+    "assets/concisitems/textures/gui/manic_mining_20261107/atlas.png",
+    "assets/concisitems/textures/gui/skill_unlocks/manic_mining.png",
+    "assets/concisitems/textures/gui/groundwork_20261108/digging.png",
+    "assets/concisitems/textures/gui/skill_unlocks/manic_digging.png"
+  ],
+  "added": [],
+  "publicHostingAuthorized": true
+}
