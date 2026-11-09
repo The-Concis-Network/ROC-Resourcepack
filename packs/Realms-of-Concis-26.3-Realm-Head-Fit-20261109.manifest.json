@@ -1,0 +1,26 @@
+{
+  "file": "Realms-of-Concis-26.3-Realm-Head-Fit-20261109.zip",
+  "sha256": "f7ed7655c6b887a23b4c9b77d000b046ceb0d88378e285cc9662177af8df886d",
+  "sha1": "9c469bb841c293e51aa639522c0b9a34f4bf80aa",
+  "scope": "Player head fully contained in Realm hub strip, matching one-pixel lower gaps; all previous menus/assets retained",
+  "changed_existing": [
+    "assets/ultimaterealms/textures/gui/realm_second_page/bg_0_0.png",
+    "assets/ultimaterealms/textures/gui/realm_second_page/bg_0_1.png",
+    "assets/ultimaterealms/textures/gui/realm_second_page/bg_0_2.png",
+    "assets/ultimaterealms/textures/gui/realm_second_page/bg_0_3.png",
+    "assets/ultimaterealms/textures/gui/realm_second_page/bg_2_0.png",
+    "assets/ultimaterealms/textures/gui/realm_second_page/bg_2_1.png",
+    "assets/ultimaterealms/textures/gui/realm_second_page/bg_2_2.png",
+    "assets/ultimaterealms/textures/gui/realm_second_page/bg_2_3.png",
+    "assets/ultimaterealms/textures/gui/realm_second_page/empty_0_0.png",
+    "assets/ultimaterealms/textures/gui/realm_second_page/empty_0_1.png",
+    "assets/ultimaterealms/textures/gui/realm_second_page/empty_0_2.png",
+    "assets/ultimaterealms/textures/gui/realm_second_page/empty_0_3.png",
+    "assets/ultimaterealms/textures/gui/realm_second_page/empty_2_0.png",
+    "assets/ultimaterealms/textures/gui/realm_second_page/empty_2_1.png",
+    "assets/ultimaterealms/textures/gui/realm_second_page/empty_2_2.png",
+    "assets/ultimaterealms/textures/gui/realm_second_page/empty_2_3.png"
+  ],
+  "added": [],
+  "publicHostingAuthorized": true
+}
