@@ -1,0 +1,13 @@
+{
+  "file": "Realms-of-Concis-26.3-Realm-Compass-20261109.zip",
+  "sha256": "7801897df78958c7ab4033fc4728a1e48a5849ed40b834ef68834e76203323c0",
+  "sha1": "ef540e8982f1a70def3be561499f5edac285c28a",
+  "scope": "Selected original bronze Realm menu compass, fixed ninth hotbar slot, and preserved player-head fit",
+  "changed_existing": [],
+  "added": [
+    "assets/ultimaterealms/textures/item/realm_compass.png",
+    "assets/ultimaterealms/models/item/realm_compass.json",
+    "assets/ultimaterealms/items/menu/realm_compass.json"
+  ],
+  "publicHostingAuthorized": true
+}
