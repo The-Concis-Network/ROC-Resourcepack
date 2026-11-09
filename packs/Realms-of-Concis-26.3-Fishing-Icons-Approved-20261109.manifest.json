@@ -1,0 +1,18 @@
+{
+  "file": "Realms-of-Concis-26.3-Fishing-Icons-Approved-20261109.zip",
+  "sha256": "59e9536ea1a75f1541d1e65c977391b4dfaa351d626625758762f2f39bcf0b05",
+  "sha1": "927953088558bb6ef08dd809c7a53ea4d4bff5c1",
+  "scope": "Approved Lure, Luck and Ice Fishing icons in Armory and reward track",
+  "changed_existing": [
+    "assets/concisitems/textures/gui/fishing_20261108/perks.png",
+    "assets/concisitems/textures/gui/skill_unlocks/lure.png",
+    "assets/concisitems/textures/gui/skill_unlocks/lure_refined.png",
+    "assets/concisitems/textures/gui/skill_unlocks/lure_advanced.png",
+    "assets/concisitems/textures/gui/skill_unlocks/luck_of_the_sea.png",
+    "assets/concisitems/textures/gui/skill_unlocks/luck_of_the_sea_refined.png",
+    "assets/concisitems/textures/gui/skill_unlocks/luck_of_the_sea_advanced.png",
+    "assets/concisitems/textures/gui/skill_unlocks/ice_fishing.png"
+  ],
+  "added": [],
+  "publicHostingAuthorized": true
+}
