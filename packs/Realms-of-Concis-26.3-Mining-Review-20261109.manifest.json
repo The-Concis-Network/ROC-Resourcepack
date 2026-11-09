@@ -1,0 +1,12 @@
+{
+  "file": "Realms-of-Concis-26.3-Mining-Review-20261109.zip",
+  "sha256": "88a9ab394d5632a4a28559f5c8bc9944f5e25a70f802cf8ae5f10685c6b409f7",
+  "sha1": "98046470532899a64011708fe6d003c91f1071ba",
+  "scope": "Restore blue Refined border for Manic Mining in Armory and reward icons",
+  "changed_existing": [
+    "assets/concisitems/textures/gui/manic_mining_20261107/atlas.png",
+    "assets/concisitems/textures/gui/skill_unlocks/manic_mining.png"
+  ],
+  "added": [],
+  "publicHostingAuthorized": true
+}
