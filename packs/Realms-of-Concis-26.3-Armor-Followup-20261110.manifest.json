@@ -1,0 +1,23 @@
+{
+  "file": "Realms-of-Concis-26.3-Armor-Followup-20261110.zip",
+  "sha256": "7194465b4c0491949dd77254be948bd4ab4d03a8f1ef25545096edf6b2183e4d",
+  "sha1": "c39c539a682b222ba92b8d49bea1dfbed44b3b14",
+  "scope": "Armor followup and Solar Scorch: matching Armory and Combat icons",
+  "changed_existing": [],
+  "added": [
+    "assets/concisitems/textures/gui/armor_followup_20261110/perks.png",
+    "assets/concisitems/textures/gui/skill_unlocks/cold_reprisal.png",
+    "assets/concisitems/items/gui/skill_unlocks/cold_reprisal.json",
+    "assets/concisitems/models/gui/skill_unlocks/cold_reprisal.json",
+    "assets/concisitems/textures/gui/skill_unlocks/verdant_rest.png",
+    "assets/concisitems/items/gui/skill_unlocks/verdant_rest.json",
+    "assets/concisitems/models/gui/skill_unlocks/verdant_rest.json",
+    "assets/concisitems/textures/gui/skill_unlocks/solar_scorch.png",
+    "assets/concisitems/items/gui/skill_unlocks/solar_scorch.json",
+    "assets/concisitems/models/gui/skill_unlocks/solar_scorch.json",
+    "assets/concisitems/font/armory_followup_48.json",
+    "assets/concisitems/font/armory_followup_62.json",
+    "assets/concisitems/font/armory_followup_80.json"
+  ],
+  "publicHostingAuthorized": true
+}
