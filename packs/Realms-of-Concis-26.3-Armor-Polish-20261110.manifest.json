@@ -1,0 +1,13 @@
+{
+  "file": "Realms-of-Concis-26.3-Armor-Polish-20261110.zip",
+  "sha256": "16bf5c9772f0f4a2ceda214a43e90a5e52daa7762b661404468b3b78727e5896",
+  "sha1": "0326d54604e598a4f865ef0855a8b62a54240271",
+  "scope": "Armor starter trial: matching Armory and Combat unlock icons",
+  "changed_existing": [
+    "assets/concisitems/textures/gui/armor_starter_20261109/perks.png",
+    "assets/concisitems/textures/gui/skill_unlocks/steady_footing.png",
+    "assets/concisitems/textures/gui/skill_unlocks/radiant_mend.png"
+  ],
+  "added": [],
+  "publicHostingAuthorized": true
+}
