@@ -1,0 +1,11 @@
+{
+  "file": "Realms-of-Concis-26.3-Riposte-Approved-V2-20261110.zip",
+  "sha256": "241f21ea71febd798654e2aa789bc1dbc0e11bca2a298ab1ea82bffd44703834",
+  "sha1": "c257e1316906969cb3fedfad2570bdaba5d84060",
+  "scope": "Owner-approved Riposte variant 2: three UI states and matching reward icon; every other entry preserved",
+  "changed_existing": [
+    "assets/concisitems/textures/gui/sword_mastery_20261110/perks.png",
+    "assets/concisitems/textures/gui/skill_unlocks/riposte.png"
+  ],
+  "publicHostingAuthorized": true
+}
