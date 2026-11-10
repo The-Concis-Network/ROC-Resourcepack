@@ -1,0 +1,17 @@
+{
+  "file": "Realms-of-Concis-26.3-Progress-Tracks-20261110.zip",
+  "sha256": "45838c04dc268743c07c8708e0c30f4e70a7ba60d49ff2471b73f2002d2bb63a",
+  "sha1": "4a295bc4ded95778bf44db1dd855f370d053dd99",
+  "scope": "Empty Player and Realm level tracks in existing Skills snake style; progression retained, no rewards or claims",
+  "changed_existing": [],
+  "added": [
+    "assets/concisitems/font/skills_20261108_icon_realm.json",
+    "assets/concisitems/font/skills_20261108_progress_track_clear.json",
+    "assets/concisitems/font/skills_20261108_progress_track_well_36.json",
+    "assets/concisitems/font/skills_20261108_progress_track_well_54.json",
+    "assets/concisitems/font/skills_20261108_progress_track_well_72.json",
+    "assets/concisitems/textures/gui/progress_tracks_20261110/clear.png",
+    "assets/concisitems/textures/gui/progress_tracks_20261110/well.png"
+  ],
+  "publicHostingAuthorized": true
+}
