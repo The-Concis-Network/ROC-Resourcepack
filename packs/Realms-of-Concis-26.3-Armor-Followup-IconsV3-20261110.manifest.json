@@ -1,0 +1,13 @@
+{
+  "file": "Realms-of-Concis-26.3-Armor-Followup-IconsV3-20261110.zip",
+  "sha256": "38298264e40aca4f84e940607d84963c7bf0cce334458b684411d17176de774a",
+  "sha1": "1231132a932151dfcdf48a9de0db396f3cad12f2",
+  "scope": "Armor followup and Solar Scorch: matching Armory and Combat icons",
+  "changed_existing": [
+    "assets/concisitems/textures/gui/armor_followup_20261110/perks.png",
+    "assets/concisitems/textures/gui/skill_unlocks/cold_reprisal.png",
+    "assets/concisitems/textures/gui/skill_unlocks/solar_scorch.png"
+  ],
+  "added": [],
+  "publicHostingAuthorized": true
+}
