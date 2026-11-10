@@ -1,0 +1,25 @@
+{
+  "file": "Realms-of-Concis-26.3-Weapon-Visual-Test-20261110.zip",
+  "sha256": "59db0cfd15e385dbd0453138ed6b254d9641f35fd7b19ba630f39dd230fb9e87",
+  "sha1": "0afa766ff338d008480c2d9779cb0e58fbad0869",
+  "scope": "Visual-test item models for Dagger, Combat Axe, Staff and optional Staff variant. All existing Banks and other assets retained. No gameplay changes.",
+  "added": [
+    "assets/concisitems/textures/item/weaponry/dagger.png",
+    "assets/concisitems/models/item/weaponry/dagger.json",
+    "assets/concisitems/items/weaponry/dagger.json",
+    "assets/concisitems/textures/item/weaponry/combat_axe.png",
+    "assets/concisitems/models/item/weaponry/combat_axe.json",
+    "assets/concisitems/items/weaponry/combat_axe.json",
+    "assets/concisitems/textures/item/weaponry/staff.png",
+    "assets/concisitems/models/item/weaponry/staff.json",
+    "assets/concisitems/items/weaponry/staff.json",
+    "assets/concisitems/textures/item/weaponry/staff_vanilla_trial.png",
+    "assets/concisitems/models/item/weaponry/staff_vanilla_trial.json",
+    "assets/concisitems/items/weaponry/staff_vanilla_trial.json"
+  ],
+  "changed": [
+    "assets/minecraft/atlases/items.json",
+    "assets/minecraft/atlases/blocks.json"
+  ],
+  "publicHostingAuthorized": true
+}
