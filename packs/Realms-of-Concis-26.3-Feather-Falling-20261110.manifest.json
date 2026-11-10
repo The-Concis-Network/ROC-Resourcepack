@@ -1,0 +1,17 @@
+{
+  "file": "Realms-of-Concis-26.3-Feather-Falling-20261110.zip",
+  "sha256": "43a99fc87ae5201904145e74fce9899759d6a95b7f6a8f42c760f9415340c04d",
+  "sha1": "dbbc1e3ca68f2b75b8eabde48c4954a1a5d2f3a7",
+  "scope": "Feather Falling: matching Armory and Combat unlock icons",
+  "changed_existing": [],
+  "added": [
+    "assets/concisitems/textures/gui/feather_20261110/perks.png",
+    "assets/concisitems/textures/gui/skill_unlocks/feather_falling.png",
+    "assets/concisitems/items/gui/skill_unlocks/feather_falling.json",
+    "assets/concisitems/models/gui/skill_unlocks/feather_falling.json",
+    "assets/concisitems/font/armory_feather_48.json",
+    "assets/concisitems/font/armory_feather_62.json",
+    "assets/concisitems/font/armory_feather_80.json"
+  ],
+  "publicHostingAuthorized": true
+}
