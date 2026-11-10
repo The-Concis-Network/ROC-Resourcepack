@@ -1,0 +1,12 @@
+{
+  "file": "Realms-of-Concis-26.3-Reward-Atlas-Fix-20261110.zip",
+  "sha256": "bf8b93ec89ea9a2fd27a84d34a5cf0a4ab1957290bb5adf2f17de493ec48f26f",
+  "sha1": "f93b1fa2708096c2f95ac9a9f5709137b7f42757",
+  "scope": "Armor starter trial: matching Armory and Combat unlock icons",
+  "changed_existing": [
+    "assets/minecraft/atlases/items.json",
+    "assets/minecraft/atlases/blocks.json"
+  ],
+  "added": [],
+  "publicHostingAuthorized": true
+}
