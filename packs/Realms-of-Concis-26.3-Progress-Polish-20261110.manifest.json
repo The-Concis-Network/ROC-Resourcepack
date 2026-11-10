@@ -1,0 +1,18 @@
+{
+  "file": "Realms-of-Concis-26.3-Progress-Polish-20261110.zip",
+  "sha256": "141edc2bcd84a221899f5d5e62c6936edc615132bae6a33b1bee1f78daada1d2",
+  "sha1": "86f858b3417f09ce0934c27c08190fe31e87a926",
+  "scope": "Sharper slightly larger Progress and Realm emblems; no enchant glint; tighter hub gap with exact player strip preservation",
+  "changed_existing": [
+    "assets/concisitems/font/skills_20261108_icon_progress.json",
+    "assets/concisitems/textures/gui/progress_home_20261109/progress.png",
+    "assets/ultimaterealms/textures/gui/realm_second_page/bg_0_0.png",
+    "assets/ultimaterealms/textures/gui/realm_second_page/bg_0_1.png",
+    "assets/ultimaterealms/textures/gui/realm_second_page/bg_0_2.png",
+    "assets/ultimaterealms/textures/gui/realm_second_page/bg_0_3.png",
+    "assets/ultimaterealms/textures/item/progress.png",
+    "assets/ultimaterealms/textures/item/realm_emblem.png"
+  ],
+  "added": [],
+  "publicHostingAuthorized": true
+}
