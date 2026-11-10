@@ -1,0 +1,22 @@
+{
+  "file": "Realms-of-Concis-26.3-Sword-Mastery-20261110.zip",
+  "sha256": "213ddfd1e6b300d7f14580d775a556cc12f9216fc5c59aa6ad03d8ae704b222e",
+  "sha1": "24d33fc7489ea946eec0c9a33c6977f5f99fcadb",
+  "scope": "Sword Mastery menu, Guard Training and Riposte; all prior assets retained",
+  "changed_existing": [],
+  "added": [
+    "assets/concisitems/textures/gui/sword_mastery_20261110/perks.png",
+    "assets/concisitems/textures/gui/sword_mastery_20261110/header.png",
+    "assets/concisitems/font/concept_armory_sword_mastery.json",
+    "assets/concisitems/textures/gui/skill_unlocks/guard_training.png",
+    "assets/concisitems/items/gui/skill_unlocks/guard_training.json",
+    "assets/concisitems/models/gui/skill_unlocks/guard_training.json",
+    "assets/concisitems/textures/gui/skill_unlocks/riposte.png",
+    "assets/concisitems/items/gui/skill_unlocks/riposte.json",
+    "assets/concisitems/models/gui/skill_unlocks/riposte.json",
+    "assets/concisitems/font/armory_sword_perks_48.json",
+    "assets/concisitems/font/armory_sword_perks_62.json",
+    "assets/concisitems/font/armory_sword_perks_80.json"
+  ],
+  "publicHostingAuthorized": true
+}
