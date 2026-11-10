@@ -1,0 +1,11 @@
+{
+  "file": "Realms-of-Concis-26.3-Progress-Skills-Box-20261110.zip",
+  "sha256": "503e1281bfe3346563eb6f7847eb72466fbbc830214d1cf1b5fabf9573638a3c",
+  "sha1": "a80f66955604d4d5677f8ae981840f4b1d5a7aa3",
+  "scope": "Restore approved Skills card arrow compartment and aligned text; all other assets retained",
+  "changed_existing": [
+    "assets/concisitems/textures/gui/progress_home_20261109/bg_1_2.png"
+  ],
+  "added": [],
+  "publicHostingAuthorized": true
+}
