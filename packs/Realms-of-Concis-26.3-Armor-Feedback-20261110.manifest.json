@@ -1,0 +1,15 @@
+{
+  "file": "Realms-of-Concis-26.3-Armor-Feedback-20261110.zip",
+  "sha256": "75b7a5f2a2bd763c8b0c9f9afa0085587adea144c9f61ddf558f7784871bf456",
+  "sha1": "fca0f8e5aa0d1d5bfc08a89abb51b1fc05c5ea62",
+  "scope": "Armor feedback: selected Memory/Echo icons and matching reward minis; all latest Bank and weapon assets retained",
+  "changed_existing": [
+    "assets/concisitems/textures/gui/armory_icons_20261106/perks.png",
+    "assets/concisitems/textures/gui/perk_quality_20261107/refined.png",
+    "assets/concisitems/textures/gui/skill_unlocks/tempered_memory.png",
+    "assets/concisitems/textures/gui/skill_unlocks/echo_guard.png",
+    "assets/concisitems/textures/gui/skill_unlocks/tempered_memory_refined.png"
+  ],
+  "added": [],
+  "publicHostingAuthorized": true
+}
