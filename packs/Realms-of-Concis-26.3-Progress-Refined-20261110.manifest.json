@@ -1,0 +1,20 @@
+{
+  "file": "Realms-of-Concis-26.3-Progress-Refined-20261110.zip",
+  "sha256": "7b23049d96b1c70c1742361094299db704795d2177532187b918a7a54ec3c422",
+  "sha1": "54f306571d40c98a579e742d53131925adaa811e",
+  "scope": "Progress Player/Realm title bands, roomier cards, own-player head, clear Skills entry; no corner accents or arrow; existing routes and inventory retained",
+  "changed_existing": [
+    "assets/concisitems/textures/gui/progress_home_20261109/bg_0_0.png",
+    "assets/concisitems/textures/gui/progress_home_20261109/bg_0_1.png",
+    "assets/concisitems/textures/gui/progress_home_20261109/bg_0_2.png",
+    "assets/concisitems/textures/gui/progress_home_20261109/bg_1_0.png",
+    "assets/concisitems/textures/gui/progress_home_20261109/bg_1_1.png",
+    "assets/concisitems/textures/gui/progress_home_20261109/bg_1_2.png",
+    "assets/concisitems/textures/gui/progress_home_20261109/bg_1_3.png"
+  ],
+  "added": [
+    "assets/concisitems/font/skills_20261108_progress_home_bar_56.json",
+    "assets/concisitems/textures/gui/progress_home_20261110/bar.png"
+  ],
+  "publicHostingAuthorized": true
+}
