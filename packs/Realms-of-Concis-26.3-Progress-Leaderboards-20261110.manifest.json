@@ -1,0 +1,33 @@
+{
+  "file": "Realms-of-Concis-26.3-Progress-Leaderboards-20261110.zip",
+  "sha256": "242936295efbac4e588e2fcb6287f072c4fdd32b59c518af2428742ec8feca66",
+  "sha1": "bb035129679204d9e7740807bfbcfa1ad56780a0",
+  "scope": "Player, per-realm contribution, per-skill and overall leaderboards; prize preview support with empty defaults; all prior assets retained",
+  "changed_existing": [],
+  "added": [
+    "assets/concisitems/font/skills_20261108_bg_leaderboard.json",
+    "assets/concisitems/font/skills_20261108_progress_leaderboard_entry.json",
+    "assets/concisitems/textures/gui/progress_leaderboard_20261110/bg_0_0.png",
+    "assets/concisitems/textures/gui/progress_leaderboard_20261110/bg_0_1.png",
+    "assets/concisitems/textures/gui/progress_leaderboard_20261110/bg_0_2.png",
+    "assets/concisitems/textures/gui/progress_leaderboard_20261110/bg_0_3.png",
+    "assets/concisitems/textures/gui/progress_leaderboard_20261110/bg_1_0.png",
+    "assets/concisitems/textures/gui/progress_leaderboard_20261110/bg_1_1.png",
+    "assets/concisitems/textures/gui/progress_leaderboard_20261110/bg_1_2.png",
+    "assets/concisitems/textures/gui/progress_leaderboard_20261110/bg_1_3.png",
+    "assets/concisitems/textures/gui/progress_leaderboard_20261110/bg_2_0.png",
+    "assets/concisitems/textures/gui/progress_leaderboard_20261110/bg_2_1.png",
+    "assets/concisitems/textures/gui/progress_leaderboard_20261110/bg_2_2.png",
+    "assets/concisitems/textures/gui/progress_leaderboard_20261110/bg_2_3.png",
+    "assets/concisitems/textures/gui/progress_leaderboard_20261110/bg_3_0.png",
+    "assets/concisitems/textures/gui/progress_leaderboard_20261110/bg_3_1.png",
+    "assets/concisitems/textures/gui/progress_leaderboard_20261110/bg_3_2.png",
+    "assets/concisitems/textures/gui/progress_leaderboard_20261110/bg_3_3.png",
+    "assets/concisitems/textures/gui/progress_leaderboard_20261110/bg_4_0.png",
+    "assets/concisitems/textures/gui/progress_leaderboard_20261110/bg_4_1.png",
+    "assets/concisitems/textures/gui/progress_leaderboard_20261110/bg_4_2.png",
+    "assets/concisitems/textures/gui/progress_leaderboard_20261110/bg_4_3.png",
+    "assets/concisitems/textures/gui/progress_leaderboard_20261110/entry.png"
+  ],
+  "publicHostingAuthorized": true
+}
