@@ -1,0 +1,11 @@
+{
+  "file": "Realms-of-Concis-26.3-Recipe-Book-Hover-20261111.zip",
+  "sha256": "eba816450c685d4aaacee8c7cc1a89bec5be74109ba2ed6284dc1d45f83aa797",
+  "sha1": "943d5fb4bf2a91bcfaeea282f60633ee6c83d5c0",
+  "scope": "Recipe-book hover: calm dark face and subtle gold edge; icon and every other asset preserved",
+  "changed_existing": [
+    "assets/minecraft/textures/gui/sprites/recipe_book/button_highlighted.png"
+  ],
+  "added": [],
+  "publicHostingAuthorized": true
+}
