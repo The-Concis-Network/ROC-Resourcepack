@@ -1,0 +1,12 @@
+{
+  "file": "Realms-of-Concis-26.3-Inventory-Crafting-Focus-20261111.zip",
+  "sha256": "e01ac1295cc54a49859f5ef9869b380479b45653eaf5941250c9e84f3d725fd2",
+  "sha1": "50e148f4d4dcbb06465c03d2221813a1b72b8f0f",
+  "scope": "Neutral recipe-button retained focus and dark E-inventory Crafting heading; slots, fonts and all unrelated assets preserved",
+  "changed_existing": [
+    "assets/minecraft/textures/gui/sprites/recipe_book/button_highlighted.png",
+    "assets/minecraft/textures/gui/container/inventory.png"
+  ],
+  "added": [],
+  "publicHostingAuthorized": true
+}
