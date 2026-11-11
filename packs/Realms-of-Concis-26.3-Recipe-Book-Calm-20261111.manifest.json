@@ -1,0 +1,11 @@
+{
+  "file": "Realms-of-Concis-26.3-Recipe-Book-Calm-20261111.zip",
+  "sha256": "85c7d59f79b71a74d2a47f89b3b1dd14c2abdbb949a5f731177e3e4e4d7e4726",
+  "sha1": "b4800b1fc81e4af2d76c8b3d81e489cc77e87154",
+  "scope": "Restore normal recipe-button hover/focus with calm gray border; green book, corners, normal state and all unrelated assets preserved",
+  "changed_existing": [
+    "assets/minecraft/textures/gui/sprites/recipe_book/button_highlighted.png"
+  ],
+  "added": [],
+  "publicHostingAuthorized": true
+}
