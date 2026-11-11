@@ -1,0 +1,28 @@
+{
+  "pack_file": "Realms-of-Concis-26.3-Members-Bars-Aligned-20261111.zip",
+  "pack_sha256": "73ba33281f9ef367636fa813eaac68c0103ca1b798e84f0bd8b26209d425d6f8",
+  "pack_sha1": "17e7852dab949b02d76a63a5193d179942a52e0a",
+  "changed_existing_entries": [
+    "assets/concisitems/font/skills_20261108_bg_members_v2_empty.json",
+    "assets/concisitems/font/skills_20261108_bg_members_v2_empty_search.json",
+    "assets/concisitems/font/skills_20261108_bg_members_v2_roster.json",
+    "assets/concisitems/font/skills_20261108_bg_members_v2_search.json"
+  ],
+  "added_entries": [
+    "assets/concisitems/textures/gui/members_bars_20261111/56e483f7e3b970ae03f2.png",
+    "assets/concisitems/textures/gui/members_bars_20261111/617a339851640d8f8221.png",
+    "assets/concisitems/textures/gui/members_bars_20261111/aa5801ba0895b769e605.png",
+    "assets/concisitems/textures/gui/members_bars_20261111/c9046fd60830ca1d9e42.png",
+    "assets/concisitems/textures/gui/members_bars_20261111/c9487ad4799ceae488f2.png",
+    "assets/concisitems/textures/gui/members_bars_20261111/cbe662dcfa55936bab74.png",
+    "assets/concisitems/textures/gui/members_bars_20261111/ccec9c4b22bf7886f569.png",
+    "assets/concisitems/textures/gui/members_bars_20261111/d3c5fb5105398aefe29a.png",
+    "assets/concisitems/textures/gui/members_bars_20261111/da6b8fc30fe593aaf3c2.png",
+    "assets/concisitems/textures/gui/members_bars_20261111/e8970d9c9e820c7a83c0.png",
+    "assets/concisitems/textures/gui/members_bars_20261111/f8029c9620f39b20e047.png",
+    "assets/concisitems/textures/gui/members_bars_20261111/fccf1dc9efab583ff8f9.png"
+  ],
+  "scope": "Four Members frame definitions and additive tiles; align filter/footer outline x6..169 with roster, including empty/search states",
+  "font_metrics_unchanged": true,
+  "click_routes_unchanged": true
+}
