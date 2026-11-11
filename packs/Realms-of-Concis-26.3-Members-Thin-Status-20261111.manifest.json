@@ -1,0 +1,42 @@
+{
+  "pack_file": "Realms-of-Concis-26.3-Members-Thin-Status-20261111.zip",
+  "pack_sha256": "187f32184ff29e0b26f2780fe82aba6804be11b75e208aebc9a3befb2e34223b",
+  "pack_sha1": "df010bde974c4425bc5c11ebf0593721f6d0f80a",
+  "changed_existing_entries": [
+    "assets/concisitems/font/skills_20261108_bg_members_v2_empty.json",
+    "assets/concisitems/font/skills_20261108_bg_members_v2_empty_search.json",
+    "assets/concisitems/font/skills_20261108_bg_members_v2_roster.json",
+    "assets/concisitems/font/skills_20261108_bg_members_v2_search.json",
+    "assets/concisitems/font/skills_20261108_members_status_37.json",
+    "assets/concisitems/font/skills_20261108_members_status_55.json",
+    "assets/concisitems/font/skills_20261108_members_status_73.json",
+    "assets/concisitems/font/skills_20261108_members_status_91.json"
+  ],
+  "added_entries": [
+    "assets/concisitems/textures/gui/members_thin_20261111/050d8bd47f5ec5b3bd16.png",
+    "assets/concisitems/textures/gui/members_thin_20261111/0e094e24dc98ec55592a.png",
+    "assets/concisitems/textures/gui/members_thin_20261111/10dc19999bd6409ec42e.png",
+    "assets/concisitems/textures/gui/members_thin_20261111/1a8840faf3e1145d0a0f.png",
+    "assets/concisitems/textures/gui/members_thin_20261111/1c26d4bfcd1e6b560918.png",
+    "assets/concisitems/textures/gui/members_thin_20261111/39fc323ec0eb7a007cad.png",
+    "assets/concisitems/textures/gui/members_thin_20261111/3d09e8372e71ed25ae28.png",
+    "assets/concisitems/textures/gui/members_thin_20261111/4497556e7830f74df493.png",
+    "assets/concisitems/textures/gui/members_thin_20261111/48629a1159e2c2a0de9a.png",
+    "assets/concisitems/textures/gui/members_thin_20261111/499ab600f804ac1fa0fd.png",
+    "assets/concisitems/textures/gui/members_thin_20261111/5f24559f845d871bfdaf.png",
+    "assets/concisitems/textures/gui/members_thin_20261111/6dfab5bfec2567c227df.png",
+    "assets/concisitems/textures/gui/members_thin_20261111/858108a62a2727619985.png",
+    "assets/concisitems/textures/gui/members_thin_20261111/b423b6069eed5ce463b1.png",
+    "assets/concisitems/textures/gui/members_thin_20261111/cd8dce807bb7b0817f9a.png",
+    "assets/concisitems/textures/gui/members_thin_20261111/d2a1f9f8a3bcbb044b63.png",
+    "assets/concisitems/textures/gui/members_thin_20261111/d5d1f46370d2ee340d03.png",
+    "assets/concisitems/textures/gui/members_thin_20261111/e1a7cbce351e8e8683f8.png",
+    "assets/concisitems/textures/gui/members_thin_20261111/e21cff0b37bc38ca908d.png",
+    "assets/concisitems/textures/gui/members_thin_20261111/ea7051fac0d480104013.png",
+    "assets/concisitems/textures/gui/members_thin_20261111/fa4d47e14b7a5bc22581.png",
+    "assets/concisitems/textures/gui/members_thin_20261111/fa7e495c0cc7f4cb6150.png",
+    "assets/concisitems/textures/gui/members_thin_20261111/status-stripe.png"
+  ],
+  "scope": "Four Members frames: shared1px grid/filter/nav; four status glyphs and single UI-class x offset only",
+  "click_routes_unchanged": true
+}
