@@ -1,0 +1,12 @@
+{
+  "pack_file": "Realms-of-Concis-26.3-Realm-Menus-Combat-Axe-20261111.zip",
+  "pack_sha256": "9db31bfe4242956653e267d60902836f603e408bad777ceb67ef9ceda4f958db",
+  "pack_sha1": "e54966698a3b126ab1011d167c8325f0949e007d",
+  "scope": "Realm Info/Territory/Cities/Claim lists/Unclaim confirmations/Diplomacy/selectors plus Nobility spacing and category-back arrow. Existing command and permission handlers retained. Native click mapping only; no synthetic events.",
+  "combined_peer_pack": {
+    "source_sha256": "ac743b2bb23470833c333f9797fce99da30a4f32c240b5dcabb55b9409a80f79",
+    "source_file": "Realms-of-Concis-26.3-Combat-Axe-Mastery-20261111.zip",
+    "all_63_peer_entries_exact": true,
+    "disjoint_changes": true
+  }
+}
