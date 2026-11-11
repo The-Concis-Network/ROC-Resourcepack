@@ -1,0 +1,11 @@
+{
+  "file": "Realms-of-Concis-26.3-E-Dagger-V2-20261111.zip",
+  "sha256": "2e067ca03d684603c00c0095c8461c52f912d81b429420baf1bdc5727f367cf3",
+  "sha1": "3454b97861000f0dbf6c7279e7da4d67e2ca29be",
+  "scope": "Approved Original E Combat Axe and E-style Dagger; all other assets preserved.",
+  "changed_existing": [
+    "assets/concisitems/textures/item/weaponry/dagger.png",
+    "assets/concisitems/textures/item/weaponry/combat_axe.png"
+  ],
+  "publicHostingAuthorized": true
+}
