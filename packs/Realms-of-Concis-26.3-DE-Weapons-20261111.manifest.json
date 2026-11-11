@@ -1,0 +1,11 @@
+{
+  "file": "Realms-of-Concis-26.3-DE-Weapons-20261111.zip",
+  "sha256": "b1f8b56554906e66f0c792aee2a509a9837f8710bd2e303fd0b76179b4cb5af4",
+  "sha1": "fd9133a2c9a728112d7a601ccc867fe644e9ccea",
+  "scope": "Approved D-shape Combat Axe and E-style Dagger; all other assets preserved.",
+  "changed_existing": [
+    "assets/concisitems/textures/item/weaponry/dagger.png",
+    "assets/concisitems/textures/item/weaponry/combat_axe.png"
+  ],
+  "publicHostingAuthorized": true
+}
