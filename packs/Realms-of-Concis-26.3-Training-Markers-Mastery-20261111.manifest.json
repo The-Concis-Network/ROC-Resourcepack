@@ -1,0 +1,15 @@
+{
+  "pack_file": "Realms-of-Concis-26.3-Training-Markers-Mastery-20261111.zip",
+  "pack_sha256": "6c280308449d89a576a32773fd43dd4f22a2a76f1e1adf1010fe9e0b6d6e2d29",
+  "pack_sha1": "69e564c8b4604dc9ee6bf56287a6954384d6d399",
+  "pack_overlay": [
+    "assets/concisitems/font/concept_armory_sword_mastery.json",
+    "assets/concisitems/font/workshop_text_127.json",
+    "assets/concisitems/items/training_dummy_melee.json",
+    "assets/concisitems/items/training_dummy_ranged.json",
+    "assets/concisitems/models/training/training_dummy_melee.json",
+    "assets/concisitems/models/training/training_dummy_ranged.json",
+    "assets/concisitems/textures/gui/mastery_standard_20261111/tile_8.png",
+    "assets/concisitems/textures/gui/mastery_standard_20261111/tile_9.png"
+  ]
+}
