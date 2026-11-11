@@ -1,0 +1,13 @@
+{
+  "pack_file": "Realms-of-Concis-26.3-Inventory-Dagger-20261111.zip",
+  "pack_sha256": "652c3aeaece5532f2ca08910d4bb441bc30d65b7f3e16a960f91012992378447",
+  "pack_sha1": "09e77cde5d5fc40e04844071897e863df3e68e1d",
+  "changed_existing_entries": [
+    "assets/concisitems/items/weaponry/dagger.json"
+  ],
+  "added_entries": [
+    "assets/concisitems/models/item/weaponry/dagger_gui.json",
+    "assets/concisitems/textures/item/weaponry/dagger_gui.png"
+  ],
+  "handheld_bytes_preserved": true
+}
