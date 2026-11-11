@@ -1,0 +1,10 @@
+{
+  "file": "Realms-of-Concis-26.3-Subtle-Dagger-20261111.zip",
+  "sha256": "611b3f0d15648495db25642cc28f79e9e5284f7594d492f011ef718bf0e53cb6",
+  "sha1": "71e731000eef2596fb1cca3c1b7a9e98dab0140d",
+  "scope": "Subtly refined dagger; original E Combat Axe unchanged; all other assets preserved.",
+  "changed_existing": [
+    "assets/concisitems/textures/item/weaponry/dagger.png"
+  ],
+  "publicHostingAuthorized": true
+}
