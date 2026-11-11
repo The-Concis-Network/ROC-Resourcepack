@@ -1,0 +1,10 @@
+{
+  "file": "Realms-of-Concis-26.3-Slender-Dagger-20261111.zip",
+  "sha256": "fa4a0213907e7b7f31897d087427468a9fbde52f6306b4de776170965f3e487c",
+  "sha1": "2707a3cec2517595be36a6271b5f432dc5036c99",
+  "scope": "Approved slender Dagger. Original Combat Axe, Staff and all native-container/recipe-book UI preserved.",
+  "changed_existing": [
+    "assets/concisitems/textures/item/weaponry/dagger.png"
+  ],
+  "publicHostingAuthorized": true
+}
