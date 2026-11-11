@@ -1,0 +1,12 @@
+{
+  "file": "Realms-of-Concis-26.3-Recipe-Book-Corners-20261111.zip",
+  "sha256": "6cf790320252a35039cf9259e41ab789d109da22ffd600ec734e4a3810c6014f",
+  "sha1": "94b3c984843d4b3def14502b9e63d76f519070c0",
+  "scope": "Recipe-book normal and hover: remove four inherited corner shadow pixels; every other pixel and asset preserved",
+  "changed_existing": [
+    "assets/minecraft/textures/gui/sprites/recipe_book/button.png",
+    "assets/minecraft/textures/gui/sprites/recipe_book/button_highlighted.png"
+  ],
+  "added": [],
+  "publicHostingAuthorized": true
+}
