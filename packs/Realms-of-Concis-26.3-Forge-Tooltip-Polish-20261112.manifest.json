@@ -1,0 +1,11 @@
+{
+  "sha256": "22ee6e6b85d1117fbca8ee18c4a515f758930c5d99ea46c93013451d69e30451",
+  "sha1": "22457d978652f42667587cfbbaf643ec5d365f65",
+  "entries": [
+    "assets/concisitems/font/concept_tags_70.json",
+    "assets/concisitems/font/forge_power_choices_86.json",
+    "assets/concisitems/textures/gui/forge_power_choices_0.png",
+    "assets/concisitems/textures/gui/forge_power_choices_1.png"
+  ],
+  "baseline_sha256": "32a6ee8d00574e32300e76c36454ba83db420b9c54389643b4c3ca8a955d61c9"
+}
