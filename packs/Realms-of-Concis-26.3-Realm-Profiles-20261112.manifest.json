@@ -1,0 +1,10 @@
+{
+  "pack_file": "Realms-of-Concis-26.3-Realm-Profiles-20261112.zip",
+  "pack_sha256": "32a6ee8d00574e32300e76c36454ba83db420b9c54389643b4c3ca8a955d61c9",
+  "pack_sha1": "60bdb9898fe2bfae074abf0a2ea7d47fbd5a3ea5",
+  "added_entries": [
+    "assets/concisitems/items/realm_info_map.json",
+    "assets/concisitems/models/item/realm_info_map.json"
+  ],
+  "changed_existing_entries": []
+}
