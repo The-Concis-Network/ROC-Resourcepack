@@ -1,0 +1,13 @@
+{
+  "file": "Realms-of-Concis-26.3-Axe-Mastery-20261113.zip",
+  "bytes": 20849626,
+  "sha256": "b7632fa72a19519d0a87f268f5eba0d64c89ace95eba5f0b9c9cd391cc4330d1",
+  "sha1": "f626c35e4f3fb5d751d40f0556c4f8a357d97010",
+  "scope": "Combat Axe Mastery detailed-v2 approved icons; two additive atlas/font entries; all current Housing/other assets preserved",
+  "changed_entries": [
+    "assets/concisitems/textures/gui/axe_mastery_20261113/techniques.png",
+    "assets/concisitems/font/armory_axe_mastery_62.json"
+  ],
+  "originals_and_source_excluded": true,
+  "publicHostingAuthorized": true
+}
