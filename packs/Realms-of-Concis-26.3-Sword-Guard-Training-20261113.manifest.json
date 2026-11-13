@@ -1,0 +1,15 @@
+{
+  "file": "Realms-of-Concis-26.3-Sword-Guard-Training-20261113.zip",
+  "bytes": 20857120,
+  "sha256": "db471beab1538cc1d0d5330cc47c3a393484b0470607fbf07edd8d9f73426a6d",
+  "sha1": "0b590be865c69dfee3b2b6d60c2ef9921b3cfd57",
+  "scope": "Sword Guard Training guard and counter icons; four additive atlas/font entries; all current Housing/other assets preserved",
+  "changed_entries": [
+    "assets/concisitems/textures/gui/sword_guard_training_20261113/technique.png",
+    "assets/concisitems/font/armory_guard_training_48.json",
+    "assets/concisitems/font/armory_guard_training_62.json",
+    "assets/concisitems/font/armory_guard_training_80.json"
+  ],
+  "originals_and_source_excluded": true,
+  "publicHostingAuthorized": true
+}
