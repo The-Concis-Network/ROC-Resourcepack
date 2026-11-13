@@ -1,0 +1,15 @@
+{
+  "file": "Realms-of-Concis-26.3-Mastery-Gold-20261114.zip",
+  "bytes": 20915472,
+  "sha256": "48ee353e4ca6235840b27e888b808d7117a0973085da2062384f24d85e5cd58a",
+  "sha1": "b9308ccfd914df0f8533fe3e86a744f37adc03a2",
+  "scope": "Golden Mastery borders and matching Sword Guard/Riposte art; four additive atlas/font entries; all current Housing/other assets preserved",
+  "changed_entries": [
+    "assets/concisitems/textures/gui/mastery_gold_20261114/techniques.png",
+    "assets/concisitems/font/mastery_techniques_gold_48.json",
+    "assets/concisitems/font/mastery_techniques_gold_62.json",
+    "assets/concisitems/font/mastery_techniques_gold_80.json"
+  ],
+  "originals_and_source_excluded": true,
+  "publicHostingAuthorized": true
+}
