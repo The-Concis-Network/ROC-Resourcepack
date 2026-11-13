@@ -1,0 +1,12 @@
+{
+  "file": "Realms-of-Concis-26.3-Automatic-Mastery-20261113.zip",
+  "bytes": 20820647,
+  "sha256": "d8058ca61eb247d872ceed5d554ff9d9d617edfd15a9bcea4b08bfcd5a8a3513",
+  "sha1": "cc59b6a201ad2d55ea3c36550227e9ffa39bb4cf",
+  "scope": "Automatic Mastery techniques with smaller Dual icon; only approved Dual atlas resized; all current Housing/other assets preserved",
+  "changed_entries": [
+    "assets/concisitems/textures/gui/mastery_polish_20261113/dual_daggers.png"
+  ],
+  "originals_and_source_excluded": true,
+  "publicHostingAuthorized": true
+}
