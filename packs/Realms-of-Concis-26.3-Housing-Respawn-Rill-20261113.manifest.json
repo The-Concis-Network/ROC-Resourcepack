@@ -1,0 +1,18 @@
+{
+  "file": "Realms-of-Concis-26.3-Housing-Respawn-Rill-20261113.zip",
+  "bytes": 20878580,
+  "sha256": "8aa7dbf1fafc76de1dc58d7b20bff32959af4e3bc89893f7b30507c829bbb752",
+  "sha1": "a26004cd477d4e5604d2e38233da50d466e33dfc",
+  "scope": "Housing free claim GUI and temporary Rill Coin catalogue; fixed selectable respawn; preserve current Sword Guard Training and every existing pack entry",
+  "added_entries": [
+    "assets/concisitems/textures/item/rill_coin.png",
+    "assets/concisitems/models/item/rill_coin.json",
+    "assets/concisitems/items/rill_coin.json",
+    "assets/concisitems/textures/gui/rill_currency_detail/tile_1_0.png",
+    "assets/concisitems/textures/gui/rill_currency_detail/tile_1_1.png",
+    "assets/concisitems/textures/gui/rill_currency_detail/tile_1_2.png",
+    "assets/concisitems/font/pouch_currency_detail.json"
+  ],
+  "originals_and_source_excluded": true,
+  "publicHostingAuthorized": true
+}
