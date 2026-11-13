@@ -1,0 +1,17 @@
+{
+  "file": "Realms-of-Concis-26.3-Mastery-Polish-20261113.zip",
+  "bytes": 20799797,
+  "sha256": "b43153b2de9174ec96de67daa5dfd47cd6ca06beec157bbee823e2226488bb72",
+  "sha1": "be3af7c933ad9ed9101e69ac284af9b6b8d7f128",
+  "scope": "Mastery XP bar, explicit deactivation footer and two-dagger icon; six additive assets; current Housing/other assets preserved",
+  "added_entries": [
+    "assets/concisitems/font/armory_dual_daggers_62.json",
+    "assets/concisitems/font/mastery_footer_frame.json",
+    "assets/concisitems/font/mastery_progress_41.json",
+    "assets/concisitems/textures/gui/mastery_polish_20261113/dual_daggers.png",
+    "assets/concisitems/textures/gui/mastery_polish_20261113/footer.png",
+    "assets/concisitems/textures/gui/mastery_polish_20261113/progress.png"
+  ],
+  "originals_and_source_excluded": true,
+  "publicHostingAuthorized": true
+}
