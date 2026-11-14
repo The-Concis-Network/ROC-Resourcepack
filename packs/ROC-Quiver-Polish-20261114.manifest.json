@@ -1,0 +1,13 @@
+{
+  "file": "ROC-Quiver-Polish-20261114.zip",
+  "bytes": 21258692,
+  "sha256": "4ab4f70604f9c8cf2f444eea8ae73f669466365730fed8a6409a5362e7d48057",
+  "sha1": "d39a70e5533933e8ae46e32c85fcfcdb8ea41a3c",
+  "scope": "Quiver legacy tooltip cleanup and two footer PNG corrections; preserve current Pouch, arrow balance and all unrelated assets",
+  "changed_entries": [
+    "assets/concisitems/textures/gui/quiver_refinement_20261114/2_0.png",
+    "assets/concisitems/textures/gui/quiver_refinement_20261114/2_2.png"
+  ],
+  "originals_and_source_excluded": true,
+  "publicHostingAuthorized": true
+}
