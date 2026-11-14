@@ -1,0 +1,19 @@
+{
+  "file": "Realms-of-Concis-26.3-Longbow-Polish-20261114.zip",
+  "bytes": 21089987,
+  "sha256": "614b2f786a58010ee383db759d395f4524129c3b7ec6fa713d3772108ce9c210",
+  "sha1": "0eb94c41331d496846d8546ef5419fc11af0b150",
+  "scope": "Longbow polished four registered sprites and four matching transforms; all unrelated assets preserved",
+  "changed_entries": [
+    "assets/concisitems/models/item/weaponry/bows/longbow.json",
+    "assets/concisitems/models/item/weaponry/bows/longbow_pulling_0.json",
+    "assets/concisitems/models/item/weaponry/bows/longbow_pulling_1.json",
+    "assets/concisitems/models/item/weaponry/bows/longbow_pulling_2.json",
+    "assets/concisitems/textures/item/weaponry/bows/longbow.png",
+    "assets/concisitems/textures/item/weaponry/bows/longbow_pulling_0.png",
+    "assets/concisitems/textures/item/weaponry/bows/longbow_pulling_1.png",
+    "assets/concisitems/textures/item/weaponry/bows/longbow_pulling_2.png"
+  ],
+  "originals_and_source_excluded": true,
+  "publicHostingAuthorized": true
+}
