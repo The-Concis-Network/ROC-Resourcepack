@@ -1,0 +1,15 @@
+{
+  "file": "ROC-Bow-Mastery-20261114.zip",
+  "bytes": 21490672,
+  "sha256": "bc3e94c170b3c41252cf4fa4533096fa4c5ed11fd68f48ef6b8970b4c17a443b",
+  "sha1": "6343cc6b7cacfb56ec206ba14ca2934ae2f015ea",
+  "scope": "Bow Mastery 1/5/10/20 and approved Quiver footer; four additive pack entries; preserve current Diplomacy, Pouch and all unrelated assets",
+  "changed_entries": [
+    "assets/concisitems/font/concept_armory_quiver_simple.json",
+    "assets/concisitems/font/mastery_bow_62.json",
+    "assets/concisitems/textures/gui/bow_mastery_20261114/techniques.png",
+    "assets/concisitems/textures/gui/quiver_simple_20261114/2_1.png"
+  ],
+  "originals_and_source_excluded": true,
+  "publicHostingAuthorized": true
+}
