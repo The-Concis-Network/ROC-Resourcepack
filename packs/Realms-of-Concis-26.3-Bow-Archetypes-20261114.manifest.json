@@ -1,0 +1,31 @@
+{
+  "file": "Realms-of-Concis-26.3-Bow-Archetypes-20261114.zip",
+  "bytes": 20972389,
+  "sha256": "3a08f468a93a5ceb1e54f3b2688108d684ca7c65325dad17e765601e7cbcdc96",
+  "sha1": "e04c5ae0bdc2c251e25da199db3d805feae90992",
+  "scope": "Shortbow and elven Longbow archetype models and pull textures; twenty additive entries; all existing assets preserved",
+  "changed_entries": [
+    "assets/concisitems/items/weaponry/bows/longbow/chosen.json",
+    "assets/concisitems/items/weaponry/bows/longbow/common.json",
+    "assets/concisitems/items/weaponry/bows/longbow/epic.json",
+    "assets/concisitems/items/weaponry/bows/longbow/legendary.json",
+    "assets/concisitems/items/weaponry/bows/longbow/rare.json",
+    "assets/concisitems/items/weaponry/bows/longbow/uncommon.json",
+    "assets/concisitems/items/weaponry/bows/shortbow/chosen.json",
+    "assets/concisitems/items/weaponry/bows/shortbow/common.json",
+    "assets/concisitems/items/weaponry/bows/shortbow/epic.json",
+    "assets/concisitems/items/weaponry/bows/shortbow/legendary.json",
+    "assets/concisitems/items/weaponry/bows/shortbow/rare.json",
+    "assets/concisitems/items/weaponry/bows/shortbow/uncommon.json",
+    "assets/concisitems/models/item/weaponry/bows/longbow.json",
+    "assets/concisitems/models/item/weaponry/bows/longbow_pulling_0.json",
+    "assets/concisitems/models/item/weaponry/bows/longbow_pulling_1.json",
+    "assets/concisitems/models/item/weaponry/bows/longbow_pulling_2.json",
+    "assets/concisitems/textures/item/weaponry/bows/longbow.png",
+    "assets/concisitems/textures/item/weaponry/bows/longbow_pulling_0.png",
+    "assets/concisitems/textures/item/weaponry/bows/longbow_pulling_1.png",
+    "assets/concisitems/textures/item/weaponry/bows/longbow_pulling_2.png"
+  ],
+  "originals_and_source_excluded": true,
+  "publicHostingAuthorized": true
+}
