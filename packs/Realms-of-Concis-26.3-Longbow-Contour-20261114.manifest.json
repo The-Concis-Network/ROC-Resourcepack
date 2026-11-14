@@ -1,0 +1,17 @@
+{
+  "file": "Realms-of-Concis-26.3-Longbow-Contour-20261114.zip",
+  "sha256": "fe7215622b5aa2b480a2ec4a2f57c85491f8286ddc5317eb2e904e0002c2875a",
+  "sha1": "faa1e62b07072615bdbe42d43ef7425b1a963a49",
+  "changed_entries": [
+    "assets/concisitems/models/item/weaponry/bows/longbow.json",
+    "assets/concisitems/models/item/weaponry/bows/longbow_pulling_0.json",
+    "assets/concisitems/models/item/weaponry/bows/longbow_pulling_1.json",
+    "assets/concisitems/models/item/weaponry/bows/longbow_pulling_2.json",
+    "assets/concisitems/textures/item/weaponry/bows/longbow.png",
+    "assets/concisitems/textures/item/weaponry/bows/longbow_pulling_0.png",
+    "assets/concisitems/textures/item/weaponry/bows/longbow_pulling_1.png",
+    "assets/concisitems/textures/item/weaponry/bows/longbow_pulling_2.png"
+  ],
+  "scope": "Prior Longbow design with explicit visible-contour geometry and aligned grip; all unrelated pack assets preserved",
+  "publicHostingAuthorized": true
+}
