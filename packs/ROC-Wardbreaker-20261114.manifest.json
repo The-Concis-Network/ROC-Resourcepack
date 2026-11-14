@@ -1,0 +1,13 @@
+{
+  "file": "ROC-Wardbreaker-20261114.zip",
+  "bytes": 21262213,
+  "sha256": "afa5b58f31a1ad81726988a849e295b7f50fcba5019306780194512f918a7a21",
+  "sha1": "da7e26eba95eab331c8d46c854ed0accc28e7877",
+  "scope": "Wardbreaker Arrows recipe/Quiver/Bow Mastery level 1; one additive bitmap and font; preserve current Pouch and all unrelated assets",
+  "changed_entries": [
+    "assets/concisitems/font/mastery_wardbreaker_62.json",
+    "assets/concisitems/textures/gui/wardbreaker_20261114/technique.png"
+  ],
+  "originals_and_source_excluded": true,
+  "publicHostingAuthorized": true
+}
