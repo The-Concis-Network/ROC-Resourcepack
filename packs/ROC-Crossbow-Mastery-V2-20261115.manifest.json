@@ -1,0 +1,13 @@
+{
+  "file": "ROC-Crossbow-Mastery-V2-20261115.zip",
+  "sha256": "8edc45522908251cd3eb3981a6aeb4ed0d002fd29b46cd0fc0135fe98184a22f",
+  "sha1": "4c4dcc39f776b8bb087182311c4ebfc157a160ae",
+  "bytes": 21501155,
+  "scope": "Four approved-style Crossbow Mastery icons and GUI-only 0.85 scaling; all other assets retained",
+  "changed_entries": [
+    "assets/concisitems/textures/gui/crossbow_mastery/techniques.png",
+    "assets/minecraft/models/item/crossbow.json"
+  ],
+  "publicHostingAuthorized": true,
+  "sourceCodeIncluded": false
+}
