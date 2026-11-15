@@ -1,0 +1,40 @@
+{
+  "file": "ROC-Verdant-Slender-20261115.zip",
+  "sha1": "258ceb6b7bafd0a5eebe4d4df2521aef9ed7954b",
+  "sha256": "669b5fa0269cda94e3eaed0266e63adcb54f2506a7044f9b5b8fe38ec93b2d04",
+  "scope": "Slender Verdant Longbow and approved inventory icon",
+  "retired_entries": [
+    "assets/concisitems/textures/item/weaponry/bows/longbow.png",
+    "assets/concisitems/textures/item/weaponry/bows/longbow_pulling_0.png",
+    "assets/concisitems/textures/item/weaponry/bows/longbow_pulling_1.png",
+    "assets/concisitems/textures/item/weaponry/bows/longbow_pulling_2.png",
+    "assets/roc_preview/models/item/elven.json",
+    "assets/roc_preview/models/item/elven_pulling_0.json",
+    "assets/roc_preview/models/item/elven_pulling_1.json",
+    "assets/roc_preview/models/item/elven_pulling_2.json",
+    "assets/roc_preview/models/item/original.json",
+    "assets/roc_preview/models/item/original_pulling_0.json",
+    "assets/roc_preview/models/item/original_pulling_1.json",
+    "assets/roc_preview/models/item/original_pulling_2.json",
+    "assets/roc_preview/textures/item/elven.png",
+    "assets/roc_preview/textures/item/original.png"
+  ],
+  "changed_entries": [
+    "assets/concisitems/items/weaponry/bows/longbow/chosen.json",
+    "assets/concisitems/items/weaponry/bows/longbow/common.json",
+    "assets/concisitems/items/weaponry/bows/longbow/epic.json",
+    "assets/concisitems/items/weaponry/bows/longbow/legendary.json",
+    "assets/concisitems/items/weaponry/bows/longbow/rare.json",
+    "assets/concisitems/items/weaponry/bows/longbow/uncommon.json",
+    "assets/concisitems/models/item/weaponry/bows/longbow_carved.json",
+    "assets/concisitems/models/item/weaponry/bows/longbow_carved_pulling_0.json",
+    "assets/concisitems/models/item/weaponry/bows/longbow_carved_pulling_1.json",
+    "assets/concisitems/models/item/weaponry/bows/longbow_carved_pulling_2.json",
+    "assets/concisitems/models/item/weaponry/bows/longbow_inventory.json",
+    "assets/concisitems/textures/item/weaponry/bows/longbow_carved.png",
+    "assets/concisitems/textures/item/weaponry/bows/longbow_inventory.png",
+    "assets/roc_preview/items/elven.json",
+    "assets/roc_preview/items/flat.json",
+    "assets/roc_preview/items/original.json"
+  ]
+}
