@@ -1,0 +1,22 @@
+{
+  "file": "ROC-Quiver-Footer-20261115.zip",
+  "bytes": 21508542,
+  "sha256": "c0eea5920b467cd3d06988f25d61c56b7a8dc5098fdbb94247c1a1df78dedb42",
+  "sha1": "615dee0e5071f611e32dd869b5b840420478a64b",
+  "scope": "Quiver footer alignment and Reserve On/Off; preserve current Verdant Longbow, integrated Wars UI and every unrelated asset",
+  "changed_entries": [
+    "assets/concisitems/font/concept_armory_quiver.json",
+    "assets/concisitems/font/concept_armory_quiver_reserve.json",
+    "assets/concisitems/font/quiver_reserve_footer_20261115.json",
+    "assets/concisitems/textures/gui/quiver_footer_20261115/quiver_2_0.png",
+    "assets/concisitems/textures/gui/quiver_footer_20261115/quiver_2_1.png",
+    "assets/concisitems/textures/gui/quiver_footer_20261115/quiver_2_2.png",
+    "assets/concisitems/textures/gui/quiver_footer_20261115/quiver_2_3.png",
+    "assets/concisitems/textures/gui/quiver_footer_20261115/quiver_reserve_2_0.png",
+    "assets/concisitems/textures/gui/quiver_footer_20261115/quiver_reserve_2_1.png",
+    "assets/concisitems/textures/gui/quiver_footer_20261115/quiver_reserve_2_2.png",
+    "assets/concisitems/textures/gui/quiver_footer_20261115/quiver_reserve_2_3.png"
+  ],
+  "originals_and_source_excluded": true,
+  "publicHostingAuthorized": true
+}
