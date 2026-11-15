@@ -1,0 +1,17 @@
+{
+  "file": "ROC-Verdant-Longbow-20261115.zip",
+  "sha1": "7d9f46078e68810f8188e5946b36367fa90a2684",
+  "sha256": "a9b437b1a045b95977f520fd2d2a0d16f20b3015d194a843ca551be46b1f1b74",
+  "scope": "Verdant Longbow hand and inventory visuals",
+  "changed_entries": [
+    "assets/concisitems/models/item/weaponry/bows/longbow.json",
+    "assets/concisitems/models/item/weaponry/bows/longbow_carved.json",
+    "assets/concisitems/models/item/weaponry/bows/longbow_carved_pulling_0.json",
+    "assets/concisitems/models/item/weaponry/bows/longbow_carved_pulling_1.json",
+    "assets/concisitems/models/item/weaponry/bows/longbow_carved_pulling_2.json",
+    "assets/concisitems/models/item/weaponry/bows/longbow_pulling_0.json",
+    "assets/concisitems/models/item/weaponry/bows/longbow_pulling_1.json",
+    "assets/concisitems/models/item/weaponry/bows/longbow_pulling_2.json",
+    "assets/concisitems/textures/item/weaponry/bows/longbow_carved.png"
+  ]
+}
