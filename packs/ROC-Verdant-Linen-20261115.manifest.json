@@ -1,0 +1,19 @@
+{
+  "file": "ROC-Verdant-Linen-20261115.zip",
+  "sha1": "26fffabe31ec5fa0f02cca8830ea91d02714f2cf",
+  "sha256": "a3082e7e6fe320a0373c45ea551145f2a078fe051c9655b5aeb8e8505b244e4e",
+  "scope": "Fine linen cords and wrapped moss leather grip",
+  "retired_entries": [],
+  "changed_entries": [
+    "assets/concisitems/models/item/weaponry/bows/longbow_carved.json",
+    "assets/concisitems/models/item/weaponry/bows/longbow_carved_early.json",
+    "assets/concisitems/models/item/weaponry/bows/longbow_carved_half.json",
+    "assets/concisitems/models/item/weaponry/bows/longbow_carved_late.json",
+    "assets/concisitems/models/item/weaponry/bows/longbow_carved_nock.json",
+    "assets/concisitems/models/item/weaponry/bows/longbow_carved_pulling_0.json",
+    "assets/concisitems/models/item/weaponry/bows/longbow_carved_pulling_1.json",
+    "assets/concisitems/models/item/weaponry/bows/longbow_carved_pulling_2.json",
+    "assets/concisitems/textures/item/weaponry/bows/longbow_carved.png",
+    "assets/concisitems/textures/item/weaponry/bows/longbow_carved_draw.png"
+  ]
+}
