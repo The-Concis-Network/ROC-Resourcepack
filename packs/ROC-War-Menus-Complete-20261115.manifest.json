@@ -1,0 +1,12 @@
+{
+  "file": "ROC-War-Menus-Complete-20261115.zip",
+  "sha256": "3cd3af00adf185916875b62ae50af306cda97c2994b399fed95059c3bfa70bc6",
+  "sha1": "1b039788a2d3d12d77ad7dcc1f4b9c343b435081",
+  "bytes": 21547200,
+  "scope": "Complete tested Diplomacy/Wars menus without arrows, separate Teams/Rules and ranked seasonal rules; latest existing assets preserved",
+  "added_entries": [
+    "assets/concisitems/font/war_ranking_entry_20261115.json"
+  ],
+  "publicHostingAuthorized": true,
+  "sourceCodeIncluded": false
+}
