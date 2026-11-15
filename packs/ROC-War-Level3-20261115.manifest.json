@@ -1,0 +1,13 @@
+{
+  "file": "ROC-War-Level3-20261115.zip",
+  "sha256": "0b4a1db68657520ad7579e9c86fca5f44df44fba5b189fbab670dbbdf5e583ba",
+  "sha1": "5d024c63edb8efcd787f6abee76a1600a79bc2d0",
+  "bytes": 21558377,
+  "scope": "Realm level 3 Wars unlock and refined Diplomacy emblem; existing assets preserved",
+  "added_entries": [
+    "assets/concisitems/font/skills_20261108_icon_diplomacy_20261115.json",
+    "assets/concisitems/textures/gui/diplomacy_icon_20261115.png"
+  ],
+  "publicHostingAuthorized": true,
+  "sourceCodeIncluded": false
+}
