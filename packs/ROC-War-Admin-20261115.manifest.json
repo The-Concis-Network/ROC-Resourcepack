@@ -1,0 +1,14 @@
+{
+  "file": "ROC-War-Admin-20261115.zip",
+  "bytes": 21492403,
+  "sha256": "6cf6dbf0451e000262a2c480a233df6cf2ea71acdc8f5d299879f293f4147cbc",
+  "sha1": "f32dd9c63d12d0d94bf3898f2b2c7ababa371b13",
+  "scope": "Additive WAR admin background; all current assets preserved; exact 1145 Paper / 913 combat / 53 unit tested bundle",
+  "added_entries": [
+    "assets/concisitems/font/skills_20261108_bg_war_admin_list.json",
+    "assets/concisitems/textures/gui/war_admin_20261115/978bcb55fc8b6449ca1b.png",
+    "assets/concisitems/textures/gui/war_admin_20261115/eabab8b7e713d36ff023.png"
+  ],
+  "originals_and_source_excluded": true,
+  "publicHostingAuthorized": true
+}
