@@ -1,0 +1,12 @@
+{
+  "file": "ROC-War-Antifarm-20261115.zip",
+  "sha256": "b9d5e133141547b031e6f109b2b10c3145b861b50d6e2f016cf88c0f2e28fa99",
+  "sha1": "419c0eb051214b80f47586db1c25aae7a98a0f75",
+  "bytes": 21495482,
+  "scope": "Ranked anti-farming and previous Diplomacy pixelart emblem; existing assets preserved",
+  "added_entries": [
+    "assets/concisitems/textures/gui/diplomacy_icon_20261115.png"
+  ],
+  "publicHostingAuthorized": true,
+  "sourceCodeIncluded": false
+}
