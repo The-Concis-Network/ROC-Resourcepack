@@ -1,0 +1,12 @@
+{
+  "file": "ROC-War-Menu-Simplicity-Release-20261115.zip",
+  "sha256": "5fdf85c42ab52580737b340521f11a05d495df6a39c3784581dd70458c89d690",
+  "sha1": "a4d954a67b92d84abcfd26a5855acad48bbf8337",
+  "bytes": 21435689,
+  "scope": "Balanced spacing, direct preparation skip voting and concise War details; existing assets preserved",
+  "added_entries": [
+    "assets/concisitems/font/war_ranking_aligned_20261115.json"
+  ],
+  "publicHostingAuthorized": true,
+  "sourceCodeIncluded": false
+}
