@@ -1,0 +1,8 @@
+{
+  "file": "ROC-Staff-Crossbow-20261115.zip",
+  "sha256": "6bc2bda4c4dd19431474e39aa0909ffd59e5b4e43f76f290fe6ab248806f6b91",
+  "sha1": "7a3f3fea3471d95d53164801652f253ed809edae",
+  "scope": "Staff trial with four Mastery icons plus pending Crossbow; existing Longbow and Quiver included",
+  "native_checks": 209,
+  "regression_checks": 423
+}
