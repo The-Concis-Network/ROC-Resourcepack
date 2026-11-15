@@ -1,0 +1,28 @@
+{
+  "file": "ROC-Verdant-Draw-20261115.zip",
+  "sha1": "34cec74bb6e4b478090408c492398f7551d88e84",
+  "sha256": "3d566bd3427909c9ad66d087adbe5e0c4b50f443158eaccd43cc5ec1428b1c77",
+  "scope": "Pixel-art Verdant Longbow and seven nocked arrow poses",
+  "retired_entries": [],
+  "changed_entries": [
+    "assets/concisitems/items/weaponry/bows/longbow/chosen.json",
+    "assets/concisitems/items/weaponry/bows/longbow/common.json",
+    "assets/concisitems/items/weaponry/bows/longbow/epic.json",
+    "assets/concisitems/items/weaponry/bows/longbow/legendary.json",
+    "assets/concisitems/items/weaponry/bows/longbow/rare.json",
+    "assets/concisitems/items/weaponry/bows/longbow/uncommon.json",
+    "assets/concisitems/models/item/weaponry/bows/longbow_carved.json",
+    "assets/concisitems/models/item/weaponry/bows/longbow_carved_early.json",
+    "assets/concisitems/models/item/weaponry/bows/longbow_carved_half.json",
+    "assets/concisitems/models/item/weaponry/bows/longbow_carved_late.json",
+    "assets/concisitems/models/item/weaponry/bows/longbow_carved_nock.json",
+    "assets/concisitems/models/item/weaponry/bows/longbow_carved_pulling_0.json",
+    "assets/concisitems/models/item/weaponry/bows/longbow_carved_pulling_1.json",
+    "assets/concisitems/models/item/weaponry/bows/longbow_carved_pulling_2.json",
+    "assets/concisitems/textures/item/weaponry/bows/longbow_carved.png",
+    "assets/concisitems/textures/item/weaponry/bows/longbow_carved_draw.png",
+    "assets/roc_preview/items/elven.json",
+    "assets/roc_preview/items/flat.json",
+    "assets/roc_preview/items/original.json"
+  ]
+}
