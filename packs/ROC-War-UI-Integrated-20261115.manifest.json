@@ -1,0 +1,13 @@
+{
+  "file": "ROC-War-UI-Integrated-20261115.zip",
+  "sha256": "4880b00381987c6b3b1b58c9f99c840b3c53d642e3f881e1be10bee14fc78bba",
+  "sha1": "18d22c4879811c6886774e112137304b3491b919",
+  "bytes": 21547832,
+  "scope": "Integrated transparent podium, restored functional pagination, readable Rules and explicit ranking confirmation; existing assets preserved",
+  "added_entries": [
+    "assets/concisitems/font/war_ranking_integrated_20261115.json",
+    "assets/concisitems/textures/gui/war_ranking_integrated_20261115.png"
+  ],
+  "publicHostingAuthorized": true,
+  "sourceCodeIncluded": false
+}
