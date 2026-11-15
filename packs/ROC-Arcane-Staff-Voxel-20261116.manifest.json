@@ -1,0 +1,18 @@
+{
+  "file": "ROC-Arcane-Staff-Voxel-20261116.zip",
+  "sha1": "b1e0a481472f20f216cbe0d474881a51c6abd02b",
+  "sha256": "7f24227b9d310a61078f0f4264043ac78c26b6c7cd0068757aaf375032505760",
+  "scope": "Arcane Staff hand model; original ROC inventory sprite retained",
+  "retired_entries": [],
+  "changed_entries": [
+    "assets/concisitems/items/weaponry/staff.json",
+    "assets/concisitems/items/weaponry/staff/chosen.json",
+    "assets/concisitems/items/weaponry/staff/common.json",
+    "assets/concisitems/items/weaponry/staff/epic.json",
+    "assets/concisitems/items/weaponry/staff/legendary.json",
+    "assets/concisitems/items/weaponry/staff/rare.json",
+    "assets/concisitems/items/weaponry/staff/uncommon.json",
+    "assets/concisitems/models/item/weaponry/staff_arcane_hand.json",
+    "assets/concisitems/textures/item/weaponry/staff_arcane_hand.png"
+  ]
+}
