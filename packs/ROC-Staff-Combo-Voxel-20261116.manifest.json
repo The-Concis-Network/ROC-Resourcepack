@@ -1,0 +1,20 @@
+{
+  "file": "ROC-Staff-Combo-Voxel-20261116.zip",
+  "sha256": "525163d98a51933ea545881ab8b27781849e537d472833a0af5376d755873aca",
+  "sha1": "50f582e31adeb6fee4798b19deaaa980f3bcd7fc",
+  "bytes": 21522360,
+  "scope": "Confirmed Voxel/Amethyst 3D Staff hand model; existing GUI, inventory textures and all other assets retained",
+  "changed_entries": [
+    "assets/concisitems/items/weaponry/staff.json",
+    "assets/concisitems/items/weaponry/staff/chosen.json",
+    "assets/concisitems/items/weaponry/staff/common.json",
+    "assets/concisitems/items/weaponry/staff/epic.json",
+    "assets/concisitems/items/weaponry/staff/legendary.json",
+    "assets/concisitems/items/weaponry/staff/rare.json",
+    "assets/concisitems/items/weaponry/staff/uncommon.json",
+    "assets/concisitems/models/item/weaponry/staff_arcane_hand.json",
+    "assets/concisitems/textures/item/weaponry/staff_arcane_hand.png"
+  ],
+  "publicHostingAuthorized": true,
+  "sourceCodeIncluded": false
+}
