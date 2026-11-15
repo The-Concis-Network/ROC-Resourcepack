@@ -1,0 +1,12 @@
+{
+  "file": "ROC-Diplomacy-Readable-20261115.zip",
+  "sha256": "fd0872f25c77cb5db8fa4bc61e83fde75520a8ceb9af6eaa78ed71cd2c53f867",
+  "sha1": "3a87eda6b1337184acc67c6b8424b96c767dee7a",
+  "bytes": 21503016,
+  "scope": "Readable pixel-style Diplomacy emblem; all other current assets retained",
+  "changed_entries": [
+    "assets/concisitems/textures/gui/diplomacy_icon_20261115.png"
+  ],
+  "publicHostingAuthorized": true,
+  "sourceCodeIncluded": false
+}
