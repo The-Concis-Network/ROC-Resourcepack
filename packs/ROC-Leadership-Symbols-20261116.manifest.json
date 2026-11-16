@@ -1,0 +1,15 @@
+{
+  "file": "ROC-Leadership-Symbols-20261116.zip",
+  "sha256": "caa9ed3de8e1aaa092dd376bc558917a92231cb20b98b26a997efe1981ecec57",
+  "sha1": "998467a9f99b3926201fd9d639d8c43d0633d192",
+  "scope": "Replace only Leadership home card symbols with Forge-style16px/two-color sprites; all other assets preserved",
+  "added": [
+    "assets/concisitems/textures/gui/leadership_symbols_20261116/a986344ebe052a1e5a61.png",
+    "assets/concisitems/textures/gui/leadership_symbols_20261116/e7394650cf421c3da012.png",
+    "assets/concisitems/textures/gui/leadership_symbols_20261116/1d2063ce0712698e540a.png"
+  ],
+  "changed": [
+    "assets/concisitems/font/skills_20261108_bg_leadership_forge_20261116.json"
+  ],
+  "publicHostingAuthorized": true
+}
