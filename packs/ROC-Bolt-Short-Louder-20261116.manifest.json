@@ -1,0 +1,9 @@
+{
+  "file": "ROC-Bolt-Short-Louder-20261116.zip",
+  "sha256": "f8223c09fda3882d9054bb5f03a9fc0ceacd92c18a4cb48e3153a6efd754dc06",
+  "sha1": "5a6250b847c79b9e01ecd2667dce991ea36e822c",
+  "changed_entries": [
+    "assets/roc_staff/sounds/bolt.ogg"
+  ],
+  "scope": "Owner-selected Arcane Bolt audio; all other current pack entries preserved"
+}
