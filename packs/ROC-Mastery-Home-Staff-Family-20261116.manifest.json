@@ -1,0 +1,11 @@
+{
+  "file": "ROC-Mastery-Home-Staff-Family-20261116.zip",
+  "sha256": "d27cdd018ff794aad59c20b88b2511840d4d2b6a4fdd08d290f4830ebd848467",
+  "sha1": "cd4c921b3a3a49d7c5bff9e00ff2e751cc9d53b3",
+  "scope": "Reuse exact existing carved Staff Mastery illustration in the home atlas at original detail density; preserve other five icon appearances and all other pack entries",
+  "added": [],
+  "changed": [
+    "assets/concisitems/textures/gui/mastery_cards_20261116/weapons.png"
+  ],
+  "publicHostingAuthorized": true
+}
