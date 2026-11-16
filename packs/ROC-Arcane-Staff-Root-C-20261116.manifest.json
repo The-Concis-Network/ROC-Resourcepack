@@ -1,0 +1,11 @@
+{
+  "file": "ROC-Arcane-Staff-Root-C-20261116.zip",
+  "sha1": "cb9f40d202ef6f4d8580c9940c9d1d02813b6ec1",
+  "sha256": "e7ae1f0bfc41f322da64ef361ab89fd8bc7798c11ff4dc0b1957cb7a3dd95b20",
+  "scope": "Arcane Staff root C model and texture",
+  "retired_entries": [],
+  "changed_entries": [
+    "assets/concisitems/models/item/weaponry/staff_arcane_hand.json",
+    "assets/concisitems/textures/item/weaponry/staff_arcane_hand.png"
+  ]
+}
