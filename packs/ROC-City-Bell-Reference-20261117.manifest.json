@@ -1,0 +1,10 @@
+{
+  "file": "ROC-City-Bell-Reference-20261117.zip",
+  "sha256": "98f8dfb8102d8d80a82b765be797f6c565f3dcf4a94b892597305f5047c89d6f",
+  "sha1": "b9efd40fe7b03328783e6e9245777be0115582e4",
+  "scope": "Use exact Territory bell pixels with matching inline width; preserve backend and other assets",
+  "added": [
+    "assets/concisitems/textures/gui/city_bell_polish_20261117/bell.png"
+  ],
+  "publicHostingAuthorized": true
+}
