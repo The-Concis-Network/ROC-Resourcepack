@@ -1,0 +1,17 @@
+{
+  "file": "ROC-Leadership-Elections-20261116.zip",
+  "sha256": "7f4d1f7c8b6146690730afcb4d929b5e20eb6b5545a77af73cce657d7626db38",
+  "sha1": "35ef8e7d7d3049e73f94b2484f5da301245fa6cf",
+  "scope": "Compact owner row, raised Nobility and Titles, inactive Elections; preserve all existing assets",
+  "added": [
+    "assets/concisitems/font/skills_20261108_bg_leadership_elections_20261116.json",
+    "assets/concisitems/textures/gui/leadership_elections_20261116/261942b55819b9f8a06b.png",
+    "assets/concisitems/textures/gui/leadership_elections_20261116/5b52c945eecbc0e9f9d0.png",
+    "assets/concisitems/textures/gui/leadership_elections_20261116/5f7ec3878a7672f3b471.png",
+    "assets/concisitems/textures/gui/leadership_elections_20261116/6a1ebc77b0f463f9eaed.png",
+    "assets/concisitems/textures/gui/leadership_elections_20261116/771ec94dab1c017785c5.png",
+    "assets/concisitems/textures/gui/leadership_elections_20261116/abe10c7790454cd7a763.png",
+    "assets/concisitems/textures/gui/leadership_elections_20261116/c768e2ac13d9f87aa69c.png"
+  ],
+  "publicHostingAuthorized": true
+}
