@@ -1,0 +1,17 @@
+{
+  "file": "ROC-Leadership-Owner-Native-20261116.zip",
+  "sha256": "15ce1f1b902de16dfdc19edae4194a58b3c9f37eae671030ca566330ecd7adcf",
+  "sha1": "e15ddfc89fef57527f7772c63833fd602f66a352",
+  "scope": "Use native owner head, smaller flat symbols and centered realm bar; preserve all existing pack entries",
+  "added": [
+    "assets/concisitems/font/skills_20261108_bg_leadership_native_20261116.json",
+    "assets/concisitems/textures/gui/leadership_native_20261116/0b7fbf376cc4ced65326.png",
+    "assets/concisitems/textures/gui/leadership_native_20261116/0d03790e5b644f9e71c0.png",
+    "assets/concisitems/textures/gui/leadership_native_20261116/1c3416f31e1b1d77f53a.png",
+    "assets/concisitems/textures/gui/leadership_native_20261116/25b4719a23f7012c958b.png",
+    "assets/concisitems/textures/gui/leadership_native_20261116/7d78d2fc98a70477f755.png",
+    "assets/concisitems/textures/gui/leadership_native_20261116/a25681dc09cf0eea9b2e.png",
+    "assets/concisitems/textures/gui/leadership_native_20261116/ff23d53cbc2c462f3e21.png"
+  ],
+  "publicHostingAuthorized": true
+}
