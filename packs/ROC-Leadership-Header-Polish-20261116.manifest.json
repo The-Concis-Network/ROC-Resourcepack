@@ -1,0 +1,21 @@
+{
+  "file": "ROC-Leadership-Header-Polish-20261116.zip",
+  "sha256": "14e58dcb08c3973ca0f91212872f4ee95c92bed3b056b1a19aa3018120a7309e",
+  "sha1": "a016fc93d8dbbd117db5af8d5478fb8de28f5ae7",
+  "scope": "Remove inherited extra Leadership header border; preserve existing assets and combined realm card",
+  "added": [
+    "assets/concisitems/font/skills_20261108_bg_leadership_header_20261116.json",
+    "assets/concisitems/textures/gui/leadership_header_20261116/09c08987ab0310a980ca.png",
+    "assets/concisitems/textures/gui/leadership_header_20261116/6217a4b6fd3a2f38200c.png",
+    "assets/concisitems/textures/gui/leadership_header_20261116/833840c78a7cf7f84748.png",
+    "assets/concisitems/textures/gui/leadership_header_20261116/956bc29263cbf7e04237.png",
+    "assets/concisitems/textures/gui/leadership_header_20261116/97c1d4cfe850f686fe38.png",
+    "assets/concisitems/textures/gui/leadership_header_20261116/9845b709bcd481bf6486.png",
+    "assets/concisitems/textures/gui/leadership_header_20261116/9966f7b9e2f14acf6a7d.png",
+    "assets/concisitems/textures/gui/leadership_header_20261116/a99c31d006802ddea5dd.png",
+    "assets/concisitems/textures/gui/leadership_header_20261116/b62fc8ed451273460f0d.png",
+    "assets/concisitems/textures/gui/leadership_header_20261116/c2cd85142d18a53cfe33.png",
+    "assets/concisitems/textures/gui/leadership_header_20261116/e177305be1b269721b04.png"
+  ],
+  "publicHostingAuthorized": true
+}
