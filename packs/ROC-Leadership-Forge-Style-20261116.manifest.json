@@ -1,0 +1,21 @@
+{
+  "file": "ROC-Leadership-Forge-Style-20261116.zip",
+  "sha256": "4ac95254cd12376582175209a5c7164492d739c76bbfa633412981a81613c2e2",
+  "sha1": "c46a52fac8e5b5e9cc3b882b1125504b0a79cb88",
+  "scope": "Add isolated Leadership Forge-style item illustrations, submenu header badges and tooltip/spacing fixes; every existing entry preserved",
+  "added": [
+    "assets/concisitems/font/skills_20261108_bg_leadership_forge_20261116.json",
+    "assets/concisitems/font/skills_20261108_icon_nobility_20261116.json",
+    "assets/concisitems/font/skills_20261108_icon_titles_20261116.json",
+    "assets/concisitems/textures/gui/leadership_forge_20261116/1a944156c4f06de9cd3f.png",
+    "assets/concisitems/textures/gui/leadership_forge_20261116/31200864fefaac5f9af5.png",
+    "assets/concisitems/textures/gui/leadership_forge_20261116/aa0dee9b34ea9171921f.png",
+    "assets/concisitems/textures/gui/leadership_forge_20261116/b30c66e09f3c29b28cca.png",
+    "assets/concisitems/textures/gui/leadership_forge_20261116/cce2e21f86273fa7db5c.png",
+    "assets/concisitems/textures/gui/leadership_forge_20261116/ed8e3631d28c6c9b9396.png",
+    "assets/concisitems/textures/gui/leadership_forge_20261116/f3b252b899374a2e7146.png",
+    "assets/concisitems/textures/gui/leadership_forge_20261116/nobility-128.png",
+    "assets/concisitems/textures/gui/leadership_forge_20261116/titles-128.png"
+  ],
+  "publicHostingAuthorized": true
+}
