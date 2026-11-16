@@ -1,0 +1,9 @@
+{
+  "file": "ROC-Bolt-Warm-A-20261116.zip",
+  "sha256": "0d8d5668f2a1aabdfd14765ac3c3299870faaabc7486e3f4a9930617ac5ecde3",
+  "sha1": "2c4be9a9610cbc6cef0a8af8d05adaec2f174aab",
+  "changed_entries": [
+    "assets/roc_staff/sounds/bolt.ogg"
+  ],
+  "scope": "Owner-selected warm Arcane Bolt A; all other current pack entries preserved"
+}
