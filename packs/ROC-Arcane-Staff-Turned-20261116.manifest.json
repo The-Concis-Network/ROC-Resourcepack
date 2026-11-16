@@ -1,0 +1,17 @@
+{
+  "file": "ROC-Arcane-Staff-Turned-20261116.zip",
+  "sha1": "f2d5f093a92b92e706bd0bf46b9814c5ba9b044a",
+  "sha256": "df2b35e22783730116a5835ecbc169aa85d638aecf6e1449eb770bc330869014",
+  "scope": "Arcane Staff half turn and 3D inventory view",
+  "retired_entries": [],
+  "changed_entries": [
+    "assets/concisitems/items/weaponry/staff.json",
+    "assets/concisitems/items/weaponry/staff/chosen.json",
+    "assets/concisitems/items/weaponry/staff/common.json",
+    "assets/concisitems/items/weaponry/staff/epic.json",
+    "assets/concisitems/items/weaponry/staff/legendary.json",
+    "assets/concisitems/items/weaponry/staff/rare.json",
+    "assets/concisitems/items/weaponry/staff/uncommon.json",
+    "assets/concisitems/models/item/weaponry/staff_arcane_hand.json"
+  ]
+}
