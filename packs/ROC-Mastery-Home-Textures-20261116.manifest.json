@@ -1,0 +1,10 @@
+{
+  "file": "ROC-Mastery-Home-Textures-20261116.zip",
+  "sha256": "666219566e613880963414e040408d6191a56d25bb10934cc5abb51fba3f0f4c",
+  "sha1": "89a50255842421ebc04c2b0370a69a08758a8ad4",
+  "scope": "Correct only three Mastery atlas cells: full native Sword, actual Dagger texture and purple UI Staff; all other current pack entries preserved",
+  "added": [
+    "assets/concisitems/textures/gui/mastery_cards_20261116/weapons.png"
+  ],
+  "publicHostingAuthorized": true
+}
