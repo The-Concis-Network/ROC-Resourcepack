@@ -1,0 +1,11 @@
+{
+  "file": "ROC-Mastery-Footer-Spacing-20261116.zip",
+  "sha256": "4f942284977f1dee996e132d9841855155938dfe9d9acc661db2daa1a3f46b38",
+  "sha1": "1f4e492b87a99ff1870bb66e8c02eb15a0bfd541",
+  "scope": "Raise only the home Back and X footer frames by two pixels; retain all other images and current sound updates",
+  "added": [],
+  "changed": [
+    "assets/concisitems/textures/gui/mastery_cards_20261116/background.png"
+  ],
+  "publicHostingAuthorized": true
+}
