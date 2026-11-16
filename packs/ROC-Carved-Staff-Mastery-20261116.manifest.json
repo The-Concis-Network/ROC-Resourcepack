@@ -1,0 +1,15 @@
+{
+  "file": "ROC-Carved-Staff-Mastery-20261116.zip",
+  "sha1": "05de5ede6622bdac5c4a106360420fdec8694b33",
+  "sha256": "b1954b88cc3f8d5ca66f0d001d3def518ad46931963b7c4e20376dcd36a14b11",
+  "scope": "Carved Staff mastery icons and four spell sounds",
+  "retired_entries": [],
+  "changed_entries": [
+    "assets/concisitems/textures/gui/staff_mastery/techniques.png",
+    "assets/roc_staff/sounds.json",
+    "assets/roc_staff/sounds/bolt.ogg",
+    "assets/roc_staff/sounds/burst.ogg",
+    "assets/roc_staff/sounds/pulse.ogg",
+    "assets/roc_staff/sounds/rift.ogg"
+  ]
+}
