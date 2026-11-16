@@ -1,0 +1,13 @@
+{
+  "file": "ROC-Arcane-Staff-Spells-20261116.zip",
+  "sha1": "d5043963f3ab85609662c4e89f32f4146ba696c2",
+  "sha256": "52486178c786c44a43381dcb2031589244d60c054161121df29cafe15e3a541c",
+  "scope": "Arcane Staff spell audio",
+  "retired_entries": [],
+  "changed_entries": [
+    "assets/roc_staff/sounds.json",
+    "assets/roc_staff/sounds/bolt.ogg",
+    "assets/roc_staff/sounds/burst.ogg",
+    "assets/roc_staff/sounds/pulse.ogg"
+  ]
+}
