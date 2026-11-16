@@ -1,0 +1,18 @@
+{
+  "file": "ROC-Leadership-Profile-Split-20261116.zip",
+  "sha256": "8dcc9d6431f48789d731d8f3a383f0d5713b0928ed643671161718a0a17f2395",
+  "sha1": "020b133fedb25028179babc1b2afba9982c8aa14",
+  "scope": "Selected option3: owner profile left, Nobility and Titles right, inactive Elections below; preserve all existing assets",
+  "added": [
+    "assets/concisitems/font/skills_20261108_bg_leadership_split_20261116.json",
+    "assets/concisitems/textures/gui/leadership_split_20261116/0d03790e5b644f9e71c0.png",
+    "assets/concisitems/textures/gui/leadership_split_20261116/2eab78b7720f5d524138.png",
+    "assets/concisitems/textures/gui/leadership_split_20261116/39c4fa4ce6ffc7053eb8.png",
+    "assets/concisitems/textures/gui/leadership_split_20261116/7d78d2fc98a70477f755.png",
+    "assets/concisitems/textures/gui/leadership_split_20261116/9b0fa6f35db8e6e8adf1.png",
+    "assets/concisitems/textures/gui/leadership_split_20261116/be38679cf32d91147ff9.png",
+    "assets/concisitems/textures/gui/leadership_split_20261116/fbf2ac4b90344dc267d1.png",
+    "assets/concisitems/textures/gui/leadership_split_20261116/fd0d06744eef22f0153c.png"
+  ],
+  "publicHostingAuthorized": true
+}
