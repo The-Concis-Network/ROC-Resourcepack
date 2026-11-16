@@ -1,0 +1,13 @@
+{
+  "file": "ROC-City-Bell-Polish-20261117.zip",
+  "sha256": "f05cd839c3f3caf3b4b87cf4f1ae6f4f851de2eee78c8acd3b2f0723111e4147",
+  "sha1": "1986a2d92aabe3627b6e2a50a73f6ca9d7db0f34",
+  "scope": "Centre city bell and label together with balanced padding; preserve active city-bell backend and other assets",
+  "added": [
+    "assets/concisitems/font/skills_20261108_bg_territory_city_cities_20261116.json",
+    "assets/concisitems/font/skills_20261108_city_bell_action_20261117.json",
+    "assets/concisitems/textures/gui/city_bell_polish_20261117/bell.png",
+    "assets/concisitems/textures/gui/city_bell_polish_20261117/ef24f93396158ac71cbf.png"
+  ],
+  "publicHostingAuthorized": true
+}
