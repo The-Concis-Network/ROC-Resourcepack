@@ -1,0 +1,21 @@
+{
+  "file": "ROC-Leadership-Combined-20261116.zip",
+  "sha256": "8262d0b5a4bd441e1d7056d6b5c1f01e563882e995a645021546af5e446b2da4",
+  "sha1": "593bf3e6cb6fe3eb62841c3ce80ee292e5ca7fee",
+  "scope": "Selected option1: combined realm and owner card, equal Nobility and Titles tiles, inactive Elections; preserve all existing assets",
+  "added": [
+    "assets/concisitems/font/skills_20261108_bg_leadership_combined_20261116.json",
+    "assets/concisitems/textures/gui/leadership_combined_20261116/09c08987ab0310a980ca.png",
+    "assets/concisitems/textures/gui/leadership_combined_20261116/6217a4b6fd3a2f38200c.png",
+    "assets/concisitems/textures/gui/leadership_combined_20261116/82d0a9d2275298b9f9b1.png",
+    "assets/concisitems/textures/gui/leadership_combined_20261116/97c1d4cfe850f686fe38.png",
+    "assets/concisitems/textures/gui/leadership_combined_20261116/9845b709bcd481bf6486.png",
+    "assets/concisitems/textures/gui/leadership_combined_20261116/a99c31d006802ddea5dd.png",
+    "assets/concisitems/textures/gui/leadership_combined_20261116/b62fc8ed451273460f0d.png",
+    "assets/concisitems/textures/gui/leadership_combined_20261116/c2cd85142d18a53cfe33.png",
+    "assets/concisitems/textures/gui/leadership_combined_20261116/d98b670677e2d556534f.png",
+    "assets/concisitems/textures/gui/leadership_combined_20261116/e0122f41c251dd777e02.png",
+    "assets/concisitems/textures/gui/leadership_combined_20261116/e177305be1b269721b04.png"
+  ],
+  "publicHostingAuthorized": true
+}
