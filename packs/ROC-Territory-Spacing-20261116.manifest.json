@@ -1,0 +1,17 @@
+{
+  "file": "ROC-Territory-Spacing-20261116.zip",
+  "sha256": "77c01312ddfa8329982892957558dee8d9b9cbd6d081220b2c3ff0e6db00b015",
+  "sha1": "58f99380c1b199e25dcb0f98f7d8a5226499affa",
+  "scope": "Smaller Territory/Realm Land illustrations and extra icon padding; existing text, frames and gameplay unchanged",
+  "added": [
+    "assets/concisitems/font/skills_20261108_bg_territory_home_land_20261116.json",
+    "assets/concisitems/font/skills_20261108_bg_territory_land_20261116.json",
+    "assets/concisitems/textures/gui/territory_spacing_20261116/0f103e4ae27092905f2d.png",
+    "assets/concisitems/textures/gui/territory_spacing_20261116/1d1c5311d7c120cd1d3a.png",
+    "assets/concisitems/textures/gui/territory_spacing_20261116/2206b6fbc014489003c5.png",
+    "assets/concisitems/textures/gui/territory_spacing_20261116/3a697e1fa5c155d17d5b.png",
+    "assets/concisitems/textures/gui/territory_spacing_20261116/9082696cb1de9319a4a8.png",
+    "assets/concisitems/textures/gui/territory_spacing_20261116/972e005b0ee1f315fb18.png"
+  ],
+  "publicHostingAuthorized": true
+}
