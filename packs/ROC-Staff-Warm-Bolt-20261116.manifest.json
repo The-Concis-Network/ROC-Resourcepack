@@ -1,0 +1,10 @@
+{
+  "file": "ROC-Staff-Warm-Bolt-20261116.zip",
+  "sha1": "815d4f7ea727a2e66863bf2998a44569b476d5b9",
+  "sha256": "a322d1418dd0d85e9fe85678c864bc6a419fa21209eaa8a028f1bf8cdd98473c",
+  "scope": "the warm Arcane Bolt sound",
+  "retired_entries": [],
+  "changed_entries": [
+    "assets/roc_staff/sounds/bolt.ogg"
+  ]
+}
