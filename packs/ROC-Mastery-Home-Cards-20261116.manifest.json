@@ -1,0 +1,20 @@
+{
+  "file": "ROC-Mastery-Home-Cards-20261116.zip",
+  "sha256": "1aa2554302418fb51010084424523780cba24209e096810c22f818437b8f6306",
+  "sha1": "fe55ee82f27387156368001d0e98ce45275297b7",
+  "scope": "Add eleven six-card Mastery home assets with active border, independent level/XP and existing weapon artwork; preserve every existing pack entry",
+  "added": [
+    "assets/concisitems/font/mastery_cards_20261116.json",
+    "assets/concisitems/font/mastery_cards_progress_103.json",
+    "assets/concisitems/font/mastery_cards_progress_66.json",
+    "assets/concisitems/font/mastery_cards_selected_54.json",
+    "assets/concisitems/font/mastery_cards_selected_91.json",
+    "assets/concisitems/font/mastery_cards_weapons_58.json",
+    "assets/concisitems/font/mastery_cards_weapons_95.json",
+    "assets/concisitems/textures/gui/mastery_cards_20261116/background.png",
+    "assets/concisitems/textures/gui/mastery_cards_20261116/progress.png",
+    "assets/concisitems/textures/gui/mastery_cards_20261116/selected.png",
+    "assets/concisitems/textures/gui/mastery_cards_20261116/weapons.png"
+  ],
+  "publicHostingAuthorized": true
+}
