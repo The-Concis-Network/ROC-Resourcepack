@@ -1,0 +1,21 @@
+{
+  "file": "ROC-Leadership-Cards-RootC-20261116.zip",
+  "sha256": "e102bdf07429fbb9c2c8cfaa5e90dfcfb8329a3a42357b018da365192f5ed36a",
+  "sha1": "42b540776c5c9d980159e52a6fe671ec9820e323",
+  "scope": "Add isolated Leadership owner-card and Nobility/Titles canvas; every existing entry preserved",
+  "added": [
+    "assets/concisitems/font/skills_20261108_bg_leadership_home_20261116.json",
+    "assets/concisitems/textures/gui/leadership_cards_20261116/1581f9dbff594af71cd0.png",
+    "assets/concisitems/textures/gui/leadership_cards_20261116/4256aa6712eb3684a93d.png",
+    "assets/concisitems/textures/gui/leadership_cards_20261116/7b7688b0869e659aba83.png",
+    "assets/concisitems/textures/gui/leadership_cards_20261116/93976197ed2c04baa180.png",
+    "assets/concisitems/textures/gui/leadership_cards_20261116/9a82b6de5ebf581aad3d.png",
+    "assets/concisitems/textures/gui/leadership_cards_20261116/9abd441ac74248d2145b.png",
+    "assets/concisitems/textures/gui/leadership_cards_20261116/bf979fa4b8cb29762f0a.png",
+    "assets/concisitems/textures/gui/leadership_cards_20261116/bff371dd057c70c6531b.png",
+    "assets/concisitems/textures/gui/leadership_cards_20261116/f3ad3924fa656a24065a.png",
+    "assets/concisitems/textures/gui/leadership_cards_20261116/f4a78b3b537c0913239d.png",
+    "assets/concisitems/textures/gui/leadership_cards_20261116/f79b5ccb0b7cf900b5eb.png"
+  ],
+  "publicHostingAuthorized": true
+}
