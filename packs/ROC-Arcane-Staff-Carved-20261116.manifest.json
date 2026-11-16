@@ -1,0 +1,12 @@
+{
+  "file": "ROC-Arcane-Staff-Carved-20261116.zip",
+  "sha1": "ae73770455386bdec77d67fa01af849bb3510ebb",
+  "sha256": "129f6f63a44c83d02da2fe4ccee9dd4e094714c9b1f552b02436f83df201367e",
+  "scope": "Arcane Staff Carved model, wood and amethyst",
+  "retired_entries": [],
+  "changed_entries": [
+    "assets/concisitems/models/item/weaponry/staff_arcane_hand.json",
+    "assets/concisitems/textures/item/weaponry/staff_arcane_carved_gem.png",
+    "assets/concisitems/textures/item/weaponry/staff_arcane_hand.png"
+  ]
+}
