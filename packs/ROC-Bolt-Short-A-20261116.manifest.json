@@ -1,0 +1,10 @@
+{
+  "file": "ROC-Bolt-Short-A-20261116.zip",
+  "sha256": "d3af5cd774004f2100e1b0276dc1c82791065fdef59329cdb3cdc298c0de67ff",
+  "sha1": "800443aff84826d0cc34801ec763f12bd7092685",
+  "changed_entries": [
+    "assets/roc_staff/sounds.json",
+    "assets/roc_staff/sounds/bolt.ogg"
+  ],
+  "scope": "Owner-selected Arcane Bolt audio; all other current pack entries preserved"
+}
