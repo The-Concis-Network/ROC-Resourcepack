@@ -1,0 +1,17 @@
+{
+  "file": "Realms-of-Concis-26.3-ability-loadout-20261117.zip",
+  "sha256": "f755ded6915f0fb4ba7c18a5ecda0dfcf6069d87d91bd50ce4685c5a9a9085b4",
+  "sha1": "706e5e8a0764effeae07e58c813499e0f2f201e8",
+  "added": [
+    "assets/concisitems/items/ability/second_wind.json",
+    "assets/concisitems/items/ability/starfall_nova.json",
+    "assets/concisitems/items/ability/sundering_cut.json",
+    "assets/concisitems/models/item/ability/second_wind.json",
+    "assets/concisitems/models/item/ability/starfall_nova.json",
+    "assets/concisitems/models/item/ability/sundering_cut.json",
+    "assets/concisitems/textures/item/ability/second_wind.png",
+    "assets/concisitems/textures/item/ability/starfall_nova.png",
+    "assets/concisitems/textures/item/ability/sundering_cut.png"
+  ],
+  "scope": "Three trial ability item textures and models"
+}
