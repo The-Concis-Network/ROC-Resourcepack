@@ -1,0 +1,11 @@
+{
+  "file": "Realms-of-Concis-26.3-rilitia-alpha-finish-20261117.zip",
+  "sha1": "d3b04f58417c3a857808638aaf171b60973db002",
+  "sha256": "aa4d75ec179a13d43ca225e076db345b4c51d186db72034e16052a652d08e34a",
+  "changed_assets": [
+    "assets/concisitems/textures/item/ability/seal_of_judgment.png",
+    "assets/rocabilities/items/sanctuary_boundary.json",
+    "assets/rocabilities/models/item/sanctuary_boundary.json",
+    "assets/rocabilities/textures/item/sanctuary_boundary.png"
+  ]
+}
