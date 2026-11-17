@@ -1,0 +1,10 @@
+{
+  "file": "Realms-of-Concis-26.3-ability-controls-20261117.zip",
+  "sha1": "22f113fd60d9ee930c29ac965181f2becf6c3657",
+  "sha256": "4299115af1dc62f18bad38bdd2c791e096920b00bd97a85549aec7cb8405c5a6",
+  "changed_assets": [
+    "assets/concisitems/items/ability/sundering_cut.json",
+    "assets/concisitems/items/ability/second_wind.json",
+    "assets/concisitems/items/ability/starfall_nova.json"
+  ]
+}
