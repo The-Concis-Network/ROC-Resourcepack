@@ -1,0 +1,12 @@
+{
+  "file": "Realms-of-Concis-26.3-rilitia-sanctuary-standard-20261117.zip",
+  "sha1": "762bdd09f575fffc71079b968dcdea3718084a29",
+  "sha256": "12ddc3aac441062936b6445707083ea73beccc2ae171e17528190c345474f863",
+  "changed_assets": [
+    "assets/concisitems/textures/item/ability/gilded_accord.png",
+    "assets/concisitems/textures/item/ability/keepers_oath.png",
+    "assets/concisitems/textures/item/ability/seal_of_judgment.png",
+    "assets/rocabilities/models/item/gilded_accord.json",
+    "assets/rocabilities/textures/item/gilded_accord.png"
+  ]
+}
