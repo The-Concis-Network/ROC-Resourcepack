@@ -1,0 +1,13 @@
+{
+  "file": "Realms-of-Concis-26.3-tresan-shadow-trial-20261117.zip",
+  "sha1": "298e18195f6339499c31ddc1d88d654b8d9f9c3c",
+  "sha256": "664e4b76a680b83120fa0880d5b0dc0a159f18781f76dd805f31f0760074337a",
+  "changed_assets": [
+    "assets/concisitems/items/ability/dusk_cut.json",
+    "assets/concisitems/items/ability/shade_step.json",
+    "assets/concisitems/models/item/ability/dusk_cut.json",
+    "assets/concisitems/models/item/ability/shade_step.json",
+    "assets/concisitems/textures/item/ability/dusk_cut.png",
+    "assets/concisitems/textures/item/ability/shade_step.png"
+  ]
+}
