@@ -1,0 +1,32 @@
+{
+  "file": "Home-realm-20261117-bc7291d40a13.zip",
+  "sha256": "bc7291d40a1380932d04e7b12eb7c14952faae5fb670050dc26d2ddbdb34b858",
+  "sha1": "d921d0e56a06695430fc33317c838438bc2edb6a",
+  "scope": "Centered Home player head and refined realm emblem",
+  "added": [
+    "assets/ultimaterealms/textures/gui/home_roomy_20261117/bg_0_0.png",
+    "assets/ultimaterealms/textures/gui/home_roomy_20261117/bg_0_1.png",
+    "assets/ultimaterealms/textures/gui/home_roomy_20261117/bg_0_2.png",
+    "assets/ultimaterealms/textures/gui/home_roomy_20261117/bg_0_3.png",
+    "assets/ultimaterealms/textures/gui/home_roomy_20261117/bg_1_0.png",
+    "assets/ultimaterealms/textures/gui/home_roomy_20261117/bg_1_1.png",
+    "assets/ultimaterealms/textures/gui/home_roomy_20261117/bg_1_2.png",
+    "assets/ultimaterealms/textures/gui/home_roomy_20261117/bg_1_3.png",
+    "assets/ultimaterealms/textures/gui/home_roomy_20261117/bg_2_0.png",
+    "assets/ultimaterealms/textures/gui/home_roomy_20261117/bg_2_1.png",
+    "assets/ultimaterealms/textures/gui/home_roomy_20261117/bg_2_2.png",
+    "assets/ultimaterealms/textures/gui/home_roomy_20261117/bg_2_3.png",
+    "assets/ultimaterealms/textures/gui/home_card_symbols.png",
+    "assets/ultimaterealms/textures/gui/home_header_emblem.png",
+    "assets/ultimaterealms/font/home_top_emblem.json",
+    "assets/ultimaterealms/font/home_header_emblem.json",
+    "assets/ultimaterealms/font/home_card_symbols_0.json",
+    "assets/ultimaterealms/font/home_card_symbols_1.json",
+    "assets/ultimaterealms/font/home_header_bar_player.json",
+    "assets/ultimaterealms/font/home_header_bar_realm.json",
+    "assets/ultimaterealms/textures/gui/home_realm_label.png",
+    "assets/ultimaterealms/font/home_realm_label.json",
+    "assets/ultimaterealms/items/menu/home_profile.json",
+    "assets/ultimaterealms/models/item/home_profile.json"
+  ]
+}
