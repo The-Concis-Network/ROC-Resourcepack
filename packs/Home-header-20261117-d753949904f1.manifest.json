@@ -1,0 +1,25 @@
+{
+  "file": "Home-header-20261117-d753949904f1.zip",
+  "sha256": "d753949904f10b730cd95f2b1abd4d61ed33922d489173095af9bf0d8d36c222",
+  "sha1": "8bf397d984ef79edf58f5d7fd823fe766bac399f",
+  "scope": "Original Minecraft Home icons and aligned Settings",
+  "added": [
+    "assets/ultimaterealms/textures/gui/home_roomy_20261117/bg_0_0.png",
+    "assets/ultimaterealms/textures/gui/home_roomy_20261117/bg_0_1.png",
+    "assets/ultimaterealms/textures/gui/home_roomy_20261117/bg_0_2.png",
+    "assets/ultimaterealms/textures/gui/home_roomy_20261117/bg_0_3.png",
+    "assets/ultimaterealms/textures/gui/home_roomy_20261117/bg_1_0.png",
+    "assets/ultimaterealms/textures/gui/home_roomy_20261117/bg_1_1.png",
+    "assets/ultimaterealms/textures/gui/home_roomy_20261117/bg_1_2.png",
+    "assets/ultimaterealms/textures/gui/home_roomy_20261117/bg_1_3.png",
+    "assets/ultimaterealms/textures/gui/home_roomy_20261117/bg_2_0.png",
+    "assets/ultimaterealms/textures/gui/home_roomy_20261117/bg_2_1.png",
+    "assets/ultimaterealms/textures/gui/home_roomy_20261117/bg_2_2.png",
+    "assets/ultimaterealms/textures/gui/home_roomy_20261117/bg_2_3.png",
+    "assets/ultimaterealms/font/home_header_bar_player.json",
+    "assets/ultimaterealms/font/home_header_bar_realm.json",
+    "assets/ultimaterealms/textures/gui/home_card_symbols.png",
+    "assets/ultimaterealms/textures/gui/home_header_emblem.png",
+    "assets/ultimaterealms/font/home_header_emblem.json"
+  ]
+}
