@@ -1,0 +1,11 @@
+{
+  "file": "Realms-of-Concis-26.3-rilitia-well-scroll-20261117.zip",
+  "sha1": "d4c9374d54b8a79089ed9b7343c91b343a629949",
+  "sha256": "ff96a19ea00d504be79768f066266721220226893f716092f063a7cec37a1c18",
+  "changed_assets": [
+    "assets/concisitems/textures/item/ability/gilded_accord.png",
+    "assets/concisitems/textures/item/ability/keepers_oath.png",
+    "assets/concisitems/textures/item/ability/seal_of_judgment.png",
+    "assets/rocabilities/models/item/gilded_accord.json"
+  ]
+}
