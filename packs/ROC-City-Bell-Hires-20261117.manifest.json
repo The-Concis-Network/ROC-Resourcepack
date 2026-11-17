@@ -1,0 +1,11 @@
+{
+  "file": "ROC-City-Bell-Hires-20261117.zip",
+  "sha256": "ad2b4f97c6e78c8a9db14f5c4f96648ff1348db8235013c5e141d0ead06a2cea",
+  "sha1": "a2d445b14cc49075b57947a30551e7199edbd96a",
+  "scope": "Preserve original four-texel-per-GUI-pixel Territory bell texture in Cities action; no Java or gameplay changes",
+  "added": [
+    "assets/concisitems/font/skills_20261108_city_bell_action_20261117.json",
+    "assets/concisitems/textures/gui/city_bell_polish_20261117/bell.png"
+  ],
+  "publicHostingAuthorized": true
+}
