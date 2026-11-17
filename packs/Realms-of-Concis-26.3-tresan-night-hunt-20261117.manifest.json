@@ -1,0 +1,19 @@
+{
+  "file": "Realms-of-Concis-26.3-tresan-night-hunt-20261117.zip",
+  "sha1": "1302455eeb6a039d1f98af0fc1df9830de7abb5b",
+  "sha256": "74f6111ce0b212c6c154894f2cedeed9b62d8e3e3dff44031d053eaef8e10c3e",
+  "changed_assets": [
+    "assets/concisitems/items/ability/dusk_cut.json",
+    "assets/concisitems/items/ability/night_hunt.json",
+    "assets/concisitems/items/ability/shade_step.json",
+    "assets/concisitems/models/item/ability/dusk_cut.json",
+    "assets/concisitems/models/item/ability/night_hunt.json",
+    "assets/concisitems/models/item/ability/shade_step.json",
+    "assets/concisitems/textures/item/ability/dusk_cut.png",
+    "assets/concisitems/textures/item/ability/night_hunt.png",
+    "assets/concisitems/textures/item/ability/shade_step.png",
+    "assets/rocabilities/items/night_hunt_flyby.json",
+    "assets/rocabilities/models/item/night_hunt_flyby.json",
+    "assets/rocabilities/textures/item/night_hunt_flyby.png"
+  ]
+}
