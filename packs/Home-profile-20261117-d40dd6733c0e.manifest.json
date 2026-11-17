@@ -1,0 +1,11 @@
+{
+  "file": "Home-profile-20261117-d40dd6733c0e.zip",
+  "sha256": "d40dd6733c0e88987faa83e694c42874a8e5835046cabb247fad13c3e38148e7",
+  "sha1": "c8880b41b38a2843ccc275e9a2f8ee6b94f4c762",
+  "scope": "Home title and full player head with current Tresan assets",
+  "added": [
+    "assets/ultimaterealms/items/menu/home_profile.json",
+    "assets/ultimaterealms/models/item/home_profile_bounds.json",
+    "assets/ultimaterealms/textures/gui/home_profile_clear.png"
+  ]
+}
