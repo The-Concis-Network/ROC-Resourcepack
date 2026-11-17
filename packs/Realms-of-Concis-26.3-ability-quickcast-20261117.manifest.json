@@ -1,0 +1,11 @@
+{
+  "file": "Realms-of-Concis-26.3-ability-quickcast-20261117.zip",
+  "sha1": "50103981e2bb24f1d98bd08f667fac07f4ab37ce",
+  "sha256": "31f7b575e93f75267057156c7e7edc7b3a55679d0520999a3d8e3e685b657c28",
+  "changed_assets": [
+    "assets/concisitems/models/item/ability/sundering_cut.json",
+    "assets/concisitems/models/item/ability/second_wind.json",
+    "assets/concisitems/models/item/ability/starfall_nova.json",
+    "assets/concisitems/textures/item/ability/roc_plate.png"
+  ]
+}
