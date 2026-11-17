@@ -1,0 +1,25 @@
+{
+  "file": "Realms-of-Concis-26.3-City-Core-20261117.zip",
+  "sha256": "a9974a57c66e85567102267a7cae9f720883f61e7a49c94660e18416d6b707e5",
+  "sha1": "1af0c7fd1649b2fe66b3974d24f8dd2f463d723f",
+  "scope": "Add protected city-core management background; all existing artwork preserved",
+  "added": [
+    "assets/concisitems/font/skills_20261108_bg_city_core_manage_20261117.json",
+    "assets/concisitems/textures/gui/city_core_20261117/162fa279809e5e9acc7e.png",
+    "assets/concisitems/textures/gui/city_core_20261117/27423209661cf9ee61ea.png",
+    "assets/concisitems/textures/gui/city_core_20261117/2fdea931b7518d8a32d9.png",
+    "assets/concisitems/textures/gui/city_core_20261117/5a07056a87e7c5ccc0ff.png",
+    "assets/concisitems/textures/gui/city_core_20261117/63ba9e7dcbf0f0c0fcb1.png",
+    "assets/concisitems/textures/gui/city_core_20261117/7f62f975c748b55822ea.png",
+    "assets/concisitems/textures/gui/city_core_20261117/8701ba79c3d90260f0b6.png",
+    "assets/concisitems/textures/gui/city_core_20261117/89d9f0463b08ee121711.png",
+    "assets/concisitems/textures/gui/city_core_20261117/aaecb06dba3d604bb6e7.png",
+    "assets/concisitems/textures/gui/city_core_20261117/cdef056aabcfff6c1f99.png",
+    "assets/concisitems/textures/gui/city_core_20261117/d641eaee6edf5e052c75.png",
+    "assets/concisitems/textures/gui/city_core_20261117/d80c2c990d2f4983c40b.png",
+    "assets/concisitems/textures/gui/city_core_20261117/d8d4bfb034e31ad3cc6d.png",
+    "assets/concisitems/textures/gui/city_core_20261117/dbb999e70fbe71f1d910.png",
+    "assets/concisitems/textures/gui/city_core_20261117/de32ff96497ebe40832e.png"
+  ],
+  "publicHostingAuthorized": true
+}
