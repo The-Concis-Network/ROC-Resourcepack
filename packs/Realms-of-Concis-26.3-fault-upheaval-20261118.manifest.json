@@ -1,0 +1,9 @@
+{
+  "file": "Realms-of-Concis-26.3-fault-upheaval-20261118.zip",
+  "sha1": "33fb2427b538fc1603a44680f0aa9a432b7486a9",
+  "sha256": "fdd68a4b487139679a8194b4f48c4386fdcada9c4aa1682a83017f91a98e3821",
+  "changed_assets": [
+    "assets/rocabilities/items/fault_upheaval.json",
+    "assets/rocabilities/models/item/fault_upheaval.json"
+  ]
+}
