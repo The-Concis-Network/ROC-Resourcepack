@@ -1,0 +1,11 @@
+{
+  "file": "Realms-of-Concis-26.3-asayron-crystal-20261118.zip",
+  "sha1": "ad5bb77015ff6b15058e572d03a3e19ec3d51a4e",
+  "sha256": "9482ee269220b343acc391bb468cd95e9e7cf95cdde137074257405866739035",
+  "changed_assets": [
+    "assets/concisitems/textures/item/ability/glacier_crown.png",
+    "assets/concisitems/textures/item/ability/icebound.png",
+    "assets/rocabilities/models/item/glacier_ridge.json",
+    "assets/rocabilities/textures/item/glacier_crystal.png"
+  ]
+}
