@@ -1,0 +1,13 @@
+{
+  "file": "Catalogue-categories-20261118-414b5a0a2541.zip",
+  "sha256": "414b5a0a2541ed1c0e0620646cefcd3ddc0bb1239ace37a405881f40e159d457",
+  "sha1": "a794eb514a0f5844580afc20538a5eb06dfe8644",
+  "scope": "Collections category heading and armor navigation",
+  "added": [
+    "assets/concisitems/textures/gui/catalogue_categories/header_0.png",
+    "assets/concisitems/textures/gui/catalogue_categories/header_1.png",
+    "assets/concisitems/textures/gui/catalogue_categories/header_2.png",
+    "assets/concisitems/textures/gui/catalogue_categories/header_3.png",
+    "assets/concisitems/font/skills_20261108_bg_catalogue_categories.json"
+  ]
+}
