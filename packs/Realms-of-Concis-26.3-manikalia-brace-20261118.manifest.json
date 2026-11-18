@@ -1,0 +1,16 @@
+{
+  "file": "Realms-of-Concis-26.3-manikalia-brace-20261118.zip",
+  "sha1": "a3cb415c2101229d4664fcc13932e03088eba9e0",
+  "sha256": "3dbc5eaee3b889391ee7350b8ae7bb82b6848edf59cc51a22fb0bc2cd5c96d86",
+  "changed_assets": [
+    "assets/concisitems/items/ability/brace.json",
+    "assets/concisitems/items/ability/fault_driver.json",
+    "assets/concisitems/items/ability/rivet_shot.json",
+    "assets/concisitems/models/item/ability/brace.json",
+    "assets/concisitems/models/item/ability/fault_driver.json",
+    "assets/concisitems/models/item/ability/rivet_shot.json",
+    "assets/concisitems/textures/item/ability/brace.png",
+    "assets/concisitems/textures/item/ability/fault_driver.png",
+    "assets/concisitems/textures/item/ability/rivet_shot.png"
+  ]
+}
