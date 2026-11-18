@@ -1,0 +1,11 @@
+{
+  "file": "Realms-of-Concis-26.3-manikalia-complete-20261118.zip",
+  "sha1": "e491efa04e9ff62af03a4790fdac2d4a58c8e414",
+  "sha256": "fbf129a74a16cdfee6282b5445330d2145df3a53b541298028195790fd998899",
+  "changed_assets": [
+    "assets/concisitems/textures/item/ability/rivet_shot.png",
+    "assets/concisitems/textures/item/ability/fault_driver.png",
+    "assets/rocabilities/items/fault_driver_ram.json",
+    "assets/rocabilities/models/item/fault_driver_ram.json"
+  ]
+}
