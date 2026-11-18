@@ -1,0 +1,15 @@
+{
+  "file": "Realms-of-Concis-26.3-asayron-crown-20261118.zip",
+  "sha1": "24892b383e1302f15bdb74ac4118ddd354a077ea",
+  "sha256": "61eb63f0f269b8a3a8d8231074f6a1237a70bec06f4bc868f88308ccde7d0d92",
+  "changed_assets": [
+    "assets/concisitems/items/ability/glacier_crown.json",
+    "assets/concisitems/items/ability/icebound.json",
+    "assets/concisitems/models/item/ability/glacier_crown.json",
+    "assets/concisitems/models/item/ability/icebound.json",
+    "assets/concisitems/textures/item/ability/glacier_crown.png",
+    "assets/concisitems/textures/item/ability/icebound.png",
+    "assets/rocabilities/items/glacier_ridge.json",
+    "assets/rocabilities/models/item/glacier_ridge.json"
+  ]
+}
