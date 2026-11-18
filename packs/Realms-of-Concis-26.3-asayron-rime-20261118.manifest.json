@@ -1,0 +1,10 @@
+{
+  "file": "Realms-of-Concis-26.3-asayron-rime-20261118.zip",
+  "sha1": "1f0048d8c1602dd310cc8591d12c9d13fa74690d",
+  "sha256": "46c28d18e6bb74708b272dfd42026d9627c9a7211370487b3d54ca06c433b5cd",
+  "changed_assets": [
+    "assets/concisitems/items/ability/rime_lance.json",
+    "assets/concisitems/models/item/ability/rime_lance.json",
+    "assets/concisitems/textures/item/ability/rime_lance.png"
+  ]
+}
