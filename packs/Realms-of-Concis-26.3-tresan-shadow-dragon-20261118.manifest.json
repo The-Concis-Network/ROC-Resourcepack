@@ -1,0 +1,9 @@
+{
+  "file": "Realms-of-Concis-26.3-tresan-shadow-dragon-20261118.zip",
+  "sha1": "5bad2851ae5814d6646593cc6f9bbe34d512751f",
+  "sha256": "2be90e16149ec3914760760ee1a3d5cfc7b2cdf12b49e8e3fd20ca9cbbdeea78",
+  "changed_assets": [
+    "assets/rocabilities/models/item/night_hunt_flyby.json",
+    "assets/rocabilities/textures/item/night_hunt_flyby.png"
+  ]
+}
