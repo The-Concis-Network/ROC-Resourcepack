@@ -1,0 +1,8 @@
+{
+  "file": "Realms-of-Concis-26.3-fault-spires-20261118.zip",
+  "sha1": "470b53eeecbdbfe4a081a1fc7c7be5010e9d9518",
+  "sha256": "ec0ddff30e664b25ba50f6e2cf533b5b87134ed89e6c7ccffa28868452dc6c54",
+  "changed_assets": [
+    "assets/rocabilities/models/item/fault_upheaval.json"
+  ]
+}
