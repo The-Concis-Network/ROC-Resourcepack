@@ -1,0 +1,19 @@
+{
+  "file": "Catalogue-art-20261118-2e771d6e0763.zip",
+  "sha256": "2e771d6e0763cd75f47b6b95aa736ad67782afff43a4cc1125acf8e14c4d791d",
+  "sha1": "353e570daf2339376d4d90b731ce2c9c38aafd16",
+  "scope": "Collections and Bestiary illustrations",
+  "added": [
+    "assets/concisitems/font/skills_20261108_icon_bestiary.json",
+    "assets/concisitems/font/skills_20261108_icon_collections.json",
+    "assets/ultimaterealms/items/catalogue/bestiary.json",
+    "assets/ultimaterealms/items/catalogue/blaze.json",
+    "assets/ultimaterealms/items/catalogue/collections.json",
+    "assets/ultimaterealms/models/item/catalogue/bestiary.json",
+    "assets/ultimaterealms/models/item/catalogue/blaze.json",
+    "assets/ultimaterealms/models/item/catalogue/collections.json",
+    "assets/ultimaterealms/textures/item/catalogue/bestiary.png",
+    "assets/ultimaterealms/textures/item/catalogue/blaze.png",
+    "assets/ultimaterealms/textures/item/catalogue/collections.png"
+  ]
+}
