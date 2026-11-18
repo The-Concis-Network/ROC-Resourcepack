@@ -1,0 +1,9 @@
+{
+  "file": "Realms-of-Concis-26.3-night-hunt-roar-20261118.zip",
+  "sha1": "b367192231971fb75839363c300829b05352ec6a",
+  "sha256": "54eb41177df1fa6ebd2138f0df21d3a171a5e56618503f1763d258beaa7b3825",
+  "changed_assets": [
+    "assets/rocabilities/sounds.json",
+    "assets/rocabilities/sounds/night_hunt/dive.ogg"
+  ]
+}
