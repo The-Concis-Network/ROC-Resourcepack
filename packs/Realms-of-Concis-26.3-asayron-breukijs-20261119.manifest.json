@@ -1,0 +1,12 @@
+{
+  "file": "Realms-of-Concis-26.3-asayron-breukijs-20261119.zip",
+  "sha1": "40be72f0cef77c1501d08ed2db98f4ad0f599f04",
+  "sha256": "9e57d1e6ef118b939482849101239c1af2ac85b1f2184f40737e2f444436b921",
+  "changed_assets": [
+    "assets/rocabilities/models/item/glacier_ridge.json",
+    "assets/rocabilities/models/item/glacier_ridge_fork.json",
+    "assets/rocabilities/models/item/glacier_ridge_fan.json",
+    "assets/rocabilities/items/glacier_ridge_fork.json",
+    "assets/rocabilities/items/glacier_ridge_fan.json"
+  ]
+}
