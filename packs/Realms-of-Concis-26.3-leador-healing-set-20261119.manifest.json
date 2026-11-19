@@ -1,0 +1,13 @@
+{
+  "file": "Realms-of-Concis-26.3-leador-healing-set-20261119.zip",
+  "sha1": "62fe719b1b2b3aba918610f09669397dfe12068c",
+  "sha256": "e29eb4ac3167708bfdd1a25d65373622ae70512618c8ea69d5e66bdc11eab9c9",
+  "changed_assets": [
+    "assets/concisitems/items/ability/elderheart.json",
+    "assets/concisitems/items/ability/lifebud.json",
+    "assets/concisitems/models/item/ability/elderheart.json",
+    "assets/concisitems/models/item/ability/lifebud.json",
+    "assets/concisitems/textures/item/ability/elderheart.png",
+    "assets/concisitems/textures/item/ability/lifebud.png"
+  ]
+}
