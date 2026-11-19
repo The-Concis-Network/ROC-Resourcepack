@@ -1,0 +1,11 @@
+{
+  "file": "Realms-of-Concis-26.3-castamir-mantle-20261119.zip",
+  "sha1": "74e4ee9b5a25e93d49a9919764ac7305fffb5329",
+  "sha256": "22c15c55a78e3edb3755f2af4fd2e872892dca44b0b31b757d43687eb8b95634",
+  "changed_assets": [
+    "assets/rocabilities/items/enrage_mantle.json",
+    "assets/rocabilities/models/item/enrage_mantle.json",
+    "assets/rocabilities/textures/item/enrage_mantle.png",
+    "assets/rocabilities/textures/item/enrage_mantle.png.mcmeta"
+  ]
+}
