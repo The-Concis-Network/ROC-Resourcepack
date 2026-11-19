@@ -1,0 +1,10 @@
+{
+  "file": "Commendation-cards-20261119-42f2338715aa.zip",
+  "sha256": "42f2338715aad22c486ac25ddc9121b5f947b1ea1b2a0314a58a17655e20ce8e",
+  "sha1": "42b3182797a426f499524cb9cf4a43b974cd84db",
+  "scope": "Larger commendation banners",
+  "added": [
+    "assets/ultimaterealms/font/commendation_cards.json",
+    "assets/ultimaterealms/textures/gui/commendation_cards.png"
+  ]
+}
