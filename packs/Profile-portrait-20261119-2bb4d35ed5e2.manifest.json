@@ -1,0 +1,14 @@
+{
+  "file": "Profile-portrait-20261119-2bb4d35ed5e2.zip",
+  "sha256": "2bb4d35ed5e29a444dd14d5940603ba6f61e08b8909644c971aefe33fa1f2972",
+  "sha1": "d502d575df568ca8a6cbae94faaa8db4501b0e6a",
+  "scope": "Player profile menu and active titles",
+  "added": [
+    "assets/concisitems/textures/gui/player_profiles/18845b2f8dca8b396f.png",
+    "assets/concisitems/textures/gui/player_profiles/199fc80deb4ee5efbd.png",
+    "assets/concisitems/textures/gui/player_profiles/cb1a9df1756c44be10.png",
+    "assets/ultimaterealms/items/menu/profile_portrait.json",
+    "assets/ultimaterealms/models/item/profile_portrait.json",
+    "assets/ultimaterealms/models/item/profile_portrait_bounds.json"
+  ]
+}
