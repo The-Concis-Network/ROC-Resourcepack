@@ -1,0 +1,10 @@
+{
+  "file": "Realms-of-Concis-26.3-leador-briar-bloom-20261119.zip",
+  "sha1": "2d77d7a034f53724e0022ed03c286ab9659ca753",
+  "sha256": "5209063900d6f754dfeebf2ada4ba01550b8614e0d16f6e96d44d457f43b5896",
+  "changed_assets": [
+    "assets/concisitems/items/ability/briar_bloom.json",
+    "assets/concisitems/models/item/ability/briar_bloom.json",
+    "assets/concisitems/textures/item/ability/briar_bloom.png"
+  ]
+}
