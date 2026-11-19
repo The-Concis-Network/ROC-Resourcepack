@@ -1,0 +1,8 @@
+{
+  "file": "Realms-of-Concis-26.3-castamir-enrage-20261119.zip",
+  "sha1": "555bec8612a40158c216d8860dc8aa51d1da2635",
+  "sha256": "fd101020d7a79d97c0dfef25ef714d67bc8b426792cb88c1d70b21a56479ffab",
+  "changed_assets": [
+    "assets/rocabilities/models/item/solar_wyrm.json"
+  ]
+}
