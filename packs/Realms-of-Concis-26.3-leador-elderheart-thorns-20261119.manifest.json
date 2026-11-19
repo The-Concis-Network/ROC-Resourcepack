@@ -1,0 +1,9 @@
+{
+  "file": "Realms-of-Concis-26.3-leador-elderheart-thorns-20261119.zip",
+  "sha1": "11b1579ac4c42215accda65b01fb67b9fb47e9cb",
+  "sha256": "b7ea863ace4cd2d4f7b8ba7c40816cf968bfc1a033d4ac5151d1cf1a945c0a09",
+  "changed_assets": [
+    "assets/concisitems/textures/item/ability/briar_bloom.png",
+    "assets/concisitems/textures/item/ability/lifebud.png"
+  ]
+}
