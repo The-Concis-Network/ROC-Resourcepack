@@ -1,0 +1,8 @@
+{
+  "file": "Realms-of-Concis-26.3-castamir-maw-20261119.zip",
+  "sha1": "50980a014a83f16e543a212b5d5a03b584b2f288",
+  "sha256": "719b10298b0b54776ad70a8e59685579da9230a67a6d36b8d1675a729807fbd6",
+  "changed_assets": [
+    "assets/rocabilities/models/item/solar_wyrm.json"
+  ]
+}
