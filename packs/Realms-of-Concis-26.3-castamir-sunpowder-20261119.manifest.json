@@ -1,0 +1,10 @@
+{
+  "file": "Realms-of-Concis-26.3-castamir-sunpowder-20261119.zip",
+  "sha1": "bbc09217add2265b365c656babe5393fb5663966",
+  "sha256": "3cdb64ed09c4203e41ac5a463805c960acc0a00f46508d4d25c28bc52233177a",
+  "changed_assets": [
+    "assets/concisitems/items/ability/sunpowder_bomb.json",
+    "assets/concisitems/models/item/ability/sunpowder_bomb.json",
+    "assets/concisitems/textures/item/ability/sunpowder_bomb.png"
+  ]
+}
