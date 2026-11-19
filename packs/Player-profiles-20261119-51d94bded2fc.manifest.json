@@ -1,0 +1,24 @@
+{
+  "file": "Player-profiles-20261119-51d94bded2fc.zip",
+  "sha256": "51d94bded2fcf807b87001d9fddd8bd64f6d61a8c33d7fe9c1dd395d08684b1b",
+  "sha1": "6a91c3701c0f62b3400095c12c1c462e7b4113ff",
+  "scope": "Player profile menu and active titles",
+  "added": [
+    "assets/concisitems/font/skills_20261108_bg_profile_cards.json",
+    "assets/concisitems/font/skills_20261108_bg_profile_cards_chat.json",
+    "assets/concisitems/textures/gui/player_profiles/0fd49eeded4838b841.png",
+    "assets/concisitems/textures/gui/player_profiles/43fdda8b3ee7fd5d75.png",
+    "assets/concisitems/textures/gui/player_profiles/4d3c36f4b809e20a44.png",
+    "assets/concisitems/textures/gui/player_profiles/561f217553ba5f3dc5.png",
+    "assets/concisitems/textures/gui/player_profiles/59434bf532a4e8ebdc.png",
+    "assets/concisitems/textures/gui/player_profiles/7646f30f2278317da0.png",
+    "assets/concisitems/textures/gui/player_profiles/871c461507e245bb9f.png",
+    "assets/concisitems/textures/gui/player_profiles/8ecef1aad4b6292632.png",
+    "assets/concisitems/textures/gui/player_profiles/b0f9b9536e7e472959.png",
+    "assets/concisitems/textures/gui/player_profiles/c56173fbbc7fd9638d.png",
+    "assets/concisitems/textures/gui/player_profiles/c7973298577808339c.png",
+    "assets/concisitems/textures/gui/player_profiles/e5bae4d8426a179ad4.png",
+    "assets/ultimaterealms/font/profile_progress.json",
+    "assets/ultimaterealms/textures/gui/profile_progress.png"
+  ]
+}
