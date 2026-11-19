@@ -1,0 +1,10 @@
+{
+  "file": "Realms-of-Concis-26.3-kaderion-conclave-seal-20261119.zip",
+  "sha1": "80f9aa5933a9c4510f9eab1f73acbfeb36c10746",
+  "sha256": "75b9fcc76a7c7fb8e854fdb614715c23cb627207f9b4bbffadbf87b2ec6cff04",
+  "changed_assets": [
+    "assets/concisitems/items/ability/conclave_seal.json",
+    "assets/concisitems/models/item/ability/conclave_seal.json",
+    "assets/concisitems/textures/item/ability/conclave_seal.png"
+  ]
+}
