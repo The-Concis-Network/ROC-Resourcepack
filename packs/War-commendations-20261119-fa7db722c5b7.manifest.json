@@ -1,0 +1,13 @@
+{
+  "file": "War-commendations-20261119-fa7db722c5b7.zip",
+  "sha256": "fa7db722c5b7ae4a9893f498c2f4ceade1096c4ff4009486e391074b86368486",
+  "sha1": "600c96b3607639c3f3073be944f1eb16b89cf0f5",
+  "scope": "War commendations and profile footer spacing",
+  "added": [
+    "assets/concisitems/textures/gui/player_profiles/026c8d03883b70b44b.png",
+    "assets/concisitems/textures/gui/player_profiles/029ff040fd47fbf618.png",
+    "assets/concisitems/textures/gui/player_profiles/067e88f5985b54b59a.png",
+    "assets/concisitems/textures/gui/player_profiles/3d3218a5812defc1bd.png",
+    "assets/concisitems/textures/gui/player_profiles/9cab043e98bf718b01.png"
+  ]
+}
