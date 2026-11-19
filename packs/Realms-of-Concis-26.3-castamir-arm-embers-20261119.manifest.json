@@ -1,0 +1,11 @@
+{
+  "file": "Realms-of-Concis-26.3-castamir-arm-embers-20261119.zip",
+  "sha1": "4bade6ed3f0feed5d46a2fa5d5d3b8244fa3fdaa",
+  "sha256": "7971ebead697f19bb423fe45be91fdd7a1ee9557659c6e0ba7907dc8b69fffd5",
+  "changed_assets": [
+    "assets/rocabilities/items/arm_embers.json",
+    "assets/rocabilities/models/item/arm_embers.json",
+    "assets/rocabilities/textures/item/arm_embers.png",
+    "assets/rocabilities/textures/item/arm_embers.png.mcmeta"
+  ]
+}
