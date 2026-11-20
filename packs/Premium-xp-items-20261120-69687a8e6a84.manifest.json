@@ -1,0 +1,26 @@
+{
+  "file": "Premium-xp-items-20261120-69687a8e6a84.zip",
+  "sha256": "69687a8e6a84b463434150f4a74d73a1ccf8b1b151f541bed5b3d6c50b966731",
+  "sha1": "bd011884e6cd33936114fb0763485b22abb7416a",
+  "scope": "Six Premium XP boost icons",
+  "added": [
+    "assets/ultimaterealms/items/premium/personal_power.json",
+    "assets/ultimaterealms/items/premium/personal_realm.json",
+    "assets/ultimaterealms/items/premium/personal_skill.json",
+    "assets/ultimaterealms/items/premium/server_power.json",
+    "assets/ultimaterealms/items/premium/server_realm.json",
+    "assets/ultimaterealms/items/premium/server_skill.json",
+    "assets/ultimaterealms/models/item/premium/personal_power.json",
+    "assets/ultimaterealms/models/item/premium/personal_realm.json",
+    "assets/ultimaterealms/models/item/premium/personal_skill.json",
+    "assets/ultimaterealms/models/item/premium/server_power.json",
+    "assets/ultimaterealms/models/item/premium/server_realm.json",
+    "assets/ultimaterealms/models/item/premium/server_skill.json",
+    "assets/ultimaterealms/textures/item/premium/personal_power.png",
+    "assets/ultimaterealms/textures/item/premium/personal_realm.png",
+    "assets/ultimaterealms/textures/item/premium/personal_skill.png",
+    "assets/ultimaterealms/textures/item/premium/server_power.png",
+    "assets/ultimaterealms/textures/item/premium/server_realm.png",
+    "assets/ultimaterealms/textures/item/premium/server_skill.png"
+  ]
+}
