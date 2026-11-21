@@ -1,0 +1,11 @@
+{
+  "file": "Mastery-Header-HD-20261121-724cd58f5d4c.zip",
+  "sha256": "724cd58f5d4c6c4fb024ed433dbb365ff4266d62eaf22472cb41753add4bea37",
+  "sha1": "06842f78d8e3f02d8a27bf80d18afe0e757d0732",
+  "scope": "Approved high-resolution Mastery crest; preserve current Salvage hand/inventory and all peer assets",
+  "added": [
+    "assets/concisitems/font/mastery_home_header_hd_20261116.json",
+    "assets/concisitems/textures/gui/mastery_cards_20261116/background.png",
+    "assets/concisitems/textures/gui/mastery_header_hd_20261116/crest.png"
+  ]
+}
