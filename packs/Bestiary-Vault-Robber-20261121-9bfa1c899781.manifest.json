@@ -1,0 +1,21 @@
+{
+  "file": "Bestiary-Vault-Robber-20261121-9bfa1c899781.zip",
+  "sha256": "9bfa1c899781b3b127eef1bd8d657d86715cfe8486ea1cfb6f49ae6cf1931c6f",
+  "sha1": "494d10cb70669425844a54565ba26d6d5e7a235b",
+  "scope": "Vault Robber illustrated Bestiary field guide, bookmarks and catalogue portrait",
+  "added": [
+    "assets/ultimaterealms/font/bestiary_book.json",
+    "assets/ultimaterealms/items/catalogue/vault_robber.json",
+    "assets/ultimaterealms/models/item/catalogue/vault_robber.json",
+    "assets/ultimaterealms/textures/gui/bestiary/discovery.png",
+    "assets/ultimaterealms/textures/gui/bestiary/drops.png",
+    "assets/ultimaterealms/textures/gui/bestiary/field_notes.png",
+    "assets/ultimaterealms/textures/gui/bestiary/tab_0_0.png",
+    "assets/ultimaterealms/textures/gui/bestiary/tab_0_1.png",
+    "assets/ultimaterealms/textures/gui/bestiary/tab_1_0.png",
+    "assets/ultimaterealms/textures/gui/bestiary/tab_1_1.png",
+    "assets/ultimaterealms/textures/gui/bestiary/tab_2_0.png",
+    "assets/ultimaterealms/textures/gui/bestiary/tab_2_1.png",
+    "assets/ultimaterealms/textures/item/catalogue/vault_robber.png"
+  ]
+}
