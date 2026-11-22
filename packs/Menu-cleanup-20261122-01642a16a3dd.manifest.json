@@ -1,0 +1,7 @@
+{
+  "file": "Menu-cleanup-20261122-01642a16a3dd.zip",
+  "sha256": "01642a16a3dd2b19c3c86d62b9a02492ea2075f6a7ed99ba9eba4e7803f424bf",
+  "sha1": "b3a714b50ed907d45f601b03252a0bbb49211280",
+  "scope": "Remove 78 approved legacy resources and unreferenced menu tiles. Keep current Bestiary, Longbow and menu resources.",
+  "added": []
+}
