@@ -1,0 +1,14 @@
+{
+  "file": "Kaderion-crystal-20261122-5087f3c087f0.zip",
+  "sha256": "5087f3c087f07f289384d2630248a9706b98f30312171c49b6c91583db26fca3",
+  "sha1": "ad2e89630e3e7cf6912922cd94ea1fdf5e35d2f9",
+  "scope": "Kaderion staff ability icons. Centred Conclave Seal and Arcane crystal. Includes the XP HUD.",
+  "added": [
+    "assets/concisitems/items/ability/echo_pulse.json",
+    "assets/concisitems/items/ability/prism_lance.json",
+    "assets/concisitems/models/item/ability/echo_pulse.json",
+    "assets/concisitems/models/item/ability/prism_lance.json",
+    "assets/concisitems/textures/item/ability/echo_pulse.png",
+    "assets/concisitems/textures/item/ability/prism_lance.png"
+  ]
+}
