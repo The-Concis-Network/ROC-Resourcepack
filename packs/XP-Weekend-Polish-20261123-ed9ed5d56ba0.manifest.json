@@ -1,0 +1,20 @@
+{
+  "file": "XP-Weekend-Polish-20261123-ed9ed5d56ba0.zip",
+  "sha256": "ed9ed5d56ba0ae675cca9ef91d519fa9258c108fa861facaf3c5d77468a8fd0c",
+  "sha1": "1588511e51a4c364cda21c843da2c9c790f0bc56",
+  "scope": "XP gain popup spacing, weekend menu frames and Equipment XP artwork",
+  "added": [
+    "assets/concisitems/font/skills_20261108_bg_admin_events_20261123.json",
+    "assets/concisitems/font/skills_20261108_bg_admin_xp_weekend_20261123.json",
+    "assets/concisitems/textures/gui/admin_xp_20261123/20c763a3a64f6f93.png",
+    "assets/concisitems/textures/gui/admin_xp_20261123/5a467bd7707452c9.png",
+    "assets/concisitems/textures/gui/admin_xp_20261123/7057af9310df065b.png",
+    "assets/concisitems/textures/gui/admin_xp_20261123/76bab0dc7cd75b32.png",
+    "assets/concisitems/textures/gui/admin_xp_20261123/863df25c3420426f.png",
+    "assets/concisitems/textures/gui/admin_xp_20261123/97e5e714b0f1aeeb.png",
+    "assets/concisitems/textures/gui/admin_xp_20261123/d6ec4f529baaf69f.png",
+    "assets/concisitems/textures/gui/admin_xp_20261123/debbe0ce962f94eb.png",
+    "assets/concisitems/textures/gui/admin_xp_20261123/e3d4c74760d37c1b.png",
+    "assets/concisitems/textures/gui/admin_xp_20261123/f7deb4880901f257.png"
+  ]
+}
