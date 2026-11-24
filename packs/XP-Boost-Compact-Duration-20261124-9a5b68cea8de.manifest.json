@@ -1,0 +1,9 @@
+{
+  "file": "XP-Boost-Compact-Duration-20261124-9a5b68cea8de.zip",
+  "sha256": "9a5b68cea8de105c2d3087e9797bb31de247a8b90eef42475dc48c6c14d3f1ee",
+  "sha1": "cec4e77c2c8679db7a4619e83edf5bc349044520",
+  "scope": "Compact XP lettering, matching Pouch art and XP Bonus duration menu",
+  "added": [
+    "assets/roc_xp/textures/font/xp_label.png"
+  ]
+}
