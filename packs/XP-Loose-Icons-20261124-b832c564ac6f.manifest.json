@@ -1,0 +1,9 @@
+{
+  "file": "XP-Loose-Icons-20261124-b832c564ac6f.zip",
+  "sha256": "b832c564ac6f6b5e79e3d98c821a6fb4ae2c261fa2cb430703a1bc8e8f3ca3a7",
+  "sha1": "afddfe26d932c2ab6aeeae3bfcbcbb1a11d8f944",
+  "scope": "Loose XP boost icons without scope labels",
+  "added": [
+    "assets/roc_xp/textures/font/boost_badges_hd.png"
+  ]
+}
