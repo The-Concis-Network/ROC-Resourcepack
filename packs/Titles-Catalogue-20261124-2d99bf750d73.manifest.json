@@ -1,0 +1,24 @@
+{
+  "file": "Titles-Catalogue-20261124-2d99bf750d73.zip",
+  "sha256": "2d99bf750d73ca3de0d702e4098f6cc717f64777e7722f7666ad76065c89fb18",
+  "sha1": "c121182daab9ffb77773ff748bd9d867a32ddcaa",
+  "scope": "Titles status, artwork and row padding",
+  "added": [
+    "assets/ultimaterealms/font/titles_row_padding.json",
+    "assets/ultimaterealms/textures/gui/titles_row_padding.png",
+    "assets/ultimaterealms/items/menu/titles/cyan_banner.json",
+    "assets/ultimaterealms/items/menu/titles/golden_helmet.json",
+    "assets/ultimaterealms/items/menu/titles/iron_pickaxe.json",
+    "assets/ultimaterealms/items/menu/titles/iron_sword.json",
+    "assets/ultimaterealms/items/menu/titles/nether_star.json",
+    "assets/ultimaterealms/items/menu/titles/purple_banner.json",
+    "assets/ultimaterealms/items/menu/titles/wheat.json",
+    "assets/ultimaterealms/items/menu/titles/yellow_banner.json",
+    "assets/ultimaterealms/models/item/menu/titles/banner.json",
+    "assets/ultimaterealms/models/item/menu/titles/golden_helmet.json",
+    "assets/ultimaterealms/models/item/menu/titles/iron_pickaxe.json",
+    "assets/ultimaterealms/models/item/menu/titles/iron_sword.json",
+    "assets/ultimaterealms/models/item/menu/titles/nether_star.json",
+    "assets/ultimaterealms/models/item/menu/titles/wheat.json"
+  ]
+}
