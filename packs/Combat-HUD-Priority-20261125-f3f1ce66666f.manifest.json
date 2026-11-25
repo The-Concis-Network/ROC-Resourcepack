@@ -1,0 +1,19 @@
+{
+  "file": "Combat-HUD-Priority-20261125-f3f1ce66666f.zip",
+  "scope": "ROC combat feedback above the hotbar",
+  "sha1": "4291f4cece136ba4a05ed8d118863c3bf0f36d1f",
+  "sha256": "f3f1ce66666f1741b4d12e0ac9269cf88a770eb83f598076c79ff7f3275373fc",
+  "added": [
+    "assets/roc_hud/textures/font/combat_feedback.png",
+    "assets/roc_hud/textures/font/combat_feedback_fill.png",
+    "assets/roc_hud/font/combat_plate_near.json",
+    "assets/roc_hud/font/combat_text_near.json",
+    "assets/roc_hud/font/combat_plate_upper.json",
+    "assets/roc_hud/font/combat_text_upper.json",
+    "assets/roc_hud/font/combat_plate_raised.json",
+    "assets/roc_hud/font/combat_text_raised.json",
+    "assets/roc_hud/font/combat_plate_raised_upper.json",
+    "assets/roc_hud/font/combat_text_raised_upper.json",
+    "assets/roc_hud/textures/font/combat_feedback_labels.png"
+  ]
+}
