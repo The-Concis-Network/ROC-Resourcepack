@@ -1,0 +1,14 @@
+{
+  "file": "Combat-HUD-Timers-20261126-90175dfd6d70.zip",
+  "scope": "Combat HUD timed ability and buff spacing",
+  "sha1": "1f1e529fe28fc911a57549c3f68d516c66d6f25b",
+  "sha256": "90175dfd6d70ede01fec6c65928ecb4f501594770712b8e244852382cab79ff1",
+  "added": [
+    "assets/roc_hud/font/combat_timer_text_high.json",
+    "assets/roc_hud/font/combat_timer_text_high_upper.json",
+    "assets/roc_hud/font/combat_timer_text_near.json",
+    "assets/roc_hud/font/combat_timer_text_raised.json",
+    "assets/roc_hud/font/combat_timer_text_raised_upper.json",
+    "assets/roc_hud/font/combat_timer_text_upper.json"
+  ]
+}
