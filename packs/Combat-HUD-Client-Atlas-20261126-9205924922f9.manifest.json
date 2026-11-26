@@ -1,0 +1,15 @@
+{
+  "file": "Combat-HUD-Client-Atlas-20261126-9205924922f9.zip",
+  "scope": "Fix oversized combat HUD font glyphs",
+  "sha1": "3763d2f50e455d15abd8b807daf14187f84818d6",
+  "sha256": "9205924922f977c7e29e8e63c9dc2ff06cb4ed68d73c59a13eaa3a01a2301ec5",
+  "replaced": [
+    "assets/roc_hud/font/combat_text_high.json",
+    "assets/roc_hud/font/combat_text_high_upper.json",
+    "assets/roc_hud/font/combat_text_near.json",
+    "assets/roc_hud/font/combat_text_raised.json",
+    "assets/roc_hud/font/combat_text_raised_upper.json",
+    "assets/roc_hud/font/combat_text_upper.json",
+    "assets/roc_hud/textures/font/combat_feedback_icons.png"
+  ]
+}
