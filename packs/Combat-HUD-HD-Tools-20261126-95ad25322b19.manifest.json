@@ -1,0 +1,16 @@
+{
+  "file": "Combat-HUD-HD-Tools-20261126-95ad25322b19.zip",
+  "scope": "Sharper HUD icons, room around labels, and gathering perk feedback",
+  "sha1": "0cacd556fef9a69fe392798dfbab48a28b5a6828",
+  "sha256": "95ad25322b191c7d308c7392f71e350d57e7dc17430a3cc56df916fb6c14b54c",
+  "added": [],
+  "replaced": [
+    "assets/roc_hud/font/combat_text_high.json",
+    "assets/roc_hud/font/combat_text_high_upper.json",
+    "assets/roc_hud/font/combat_text_near.json",
+    "assets/roc_hud/font/combat_text_raised.json",
+    "assets/roc_hud/font/combat_text_raised_upper.json",
+    "assets/roc_hud/font/combat_text_upper.json",
+    "assets/roc_hud/textures/font/combat_feedback_icons.png"
+  ]
+}
