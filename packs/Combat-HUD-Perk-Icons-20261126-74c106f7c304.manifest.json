@@ -1,0 +1,16 @@
+{
+  "file": "Combat-HUD-Perk-Icons-20261126-74c106f7c304.zip",
+  "scope": "Existing perk art for Solar Scorch, Cold Reprisal, Radiant Mend and Wardbreaker Arrows",
+  "sha1": "242b4f6e7c0f2db2a6487379db3278a24496a60b",
+  "sha256": "74c106f7c3041f03602401a190cef483cd5c9c06f1b58797cce40dfb52dde346",
+  "added": [],
+  "replaced": [
+    "assets/roc_hud/font/combat_text_high.json",
+    "assets/roc_hud/font/combat_text_high_upper.json",
+    "assets/roc_hud/font/combat_text_near.json",
+    "assets/roc_hud/font/combat_text_raised.json",
+    "assets/roc_hud/font/combat_text_raised_upper.json",
+    "assets/roc_hud/font/combat_text_upper.json",
+    "assets/roc_hud/textures/font/combat_feedback_icons.png"
+  ]
+}
