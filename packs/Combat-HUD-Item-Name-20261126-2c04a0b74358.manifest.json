@@ -1,0 +1,36 @@
+{
+  "file": "Combat-HUD-Item-Name-20261126-2c04a0b74358.zip",
+  "scope": "Aligned XP and combat feedback with item name clearance and element icons",
+  "sha1": "9b238a1c7f1804e7d6a396a28d47c800ac1c0f8a",
+  "sha256": "2c04a0b7435895a111f3a1ce4333226bbc1a594850f35591979d053e33cae521",
+  "added": [
+    "assets/roc_hud/font/combat_combo_high.json",
+    "assets/roc_hud/font/combat_combo_near.json",
+    "assets/roc_hud/font/combat_combo_raised.json",
+    "assets/roc_hud/font/combat_combo_text_high.json",
+    "assets/roc_hud/font/combat_combo_text_near.json",
+    "assets/roc_hud/font/combat_combo_text_raised.json",
+    "assets/roc_hud/font/combat_plate_high.json",
+    "assets/roc_hud/font/combat_plate_high_upper.json",
+    "assets/roc_hud/font/combat_text_high.json",
+    "assets/roc_hud/font/combat_text_high_upper.json",
+    "assets/roc_hud/font/xp_item_name_clear_icon.json",
+    "assets/roc_hud/font/xp_item_name_clear_plate.json",
+    "assets/roc_hud/font/xp_item_name_clear_text.json",
+    "assets/roc_hud/textures/font/combat_feedback_icons.png",
+    "assets/roc_hud/textures/font/combat_feedback_keys.png"
+  ],
+  "replaced": [
+    "assets/roc_hud/font/combat_plate_near.json",
+    "assets/roc_hud/font/combat_plate_raised.json",
+    "assets/roc_hud/font/combat_plate_raised_upper.json",
+    "assets/roc_hud/font/combat_plate_upper.json",
+    "assets/roc_hud/font/combat_text_near.json",
+    "assets/roc_hud/font/combat_text_raised.json",
+    "assets/roc_hud/font/combat_text_raised_upper.json",
+    "assets/roc_hud/font/combat_text_upper.json",
+    "assets/roc_hud/textures/font/combat_feedback.png",
+    "assets/roc_hud/textures/font/combat_feedback_fill.png",
+    "assets/roc_hud/textures/font/combat_feedback_labels.png"
+  ]
+}
