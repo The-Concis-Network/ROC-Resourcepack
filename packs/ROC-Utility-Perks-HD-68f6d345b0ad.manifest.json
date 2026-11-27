@@ -1,0 +1,12 @@
+{
+  "file": "ROC-Utility-Perks-HD-68f6d345b0ad.zip",
+  "sha1": "f0068a82dfff0a33bc3a917caad746a69ec3ec6e",
+  "sha256": "68f6d345b0ad7b577898b495405d54335ded9a1a4477a4fd0069ca8f3d5e5045",
+  "base_sha256": "8b218b640b663a9ea421a147f72e633aadda2be95e4e9fba1273705e391e8242",
+  "changed_textures": [
+    "assets/concisitems/textures/gui/armory_utility_perks/perks.png",
+    "assets/concisitems/textures/gui/skill_unlocks/clean_cut.png",
+    "assets/concisitems/textures/gui/skill_unlocks/wyrm_pop.png"
+  ],
+  "scope": "Clean Cut and Wyrm Pop texture resolution"
+}
