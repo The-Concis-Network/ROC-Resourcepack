@@ -1,0 +1,14 @@
+{
+  "file": "ROC-Home-World-Map-20261127-3ba76d9ad59a.zip",
+  "sha256": "3ba76d9ad59adb7eba0aadc6d33fc3f8e0bb4e32b4cfd1cfe79b6a3d13a9ca65",
+  "sha1": "e90c469379e1a46db176df11fd34abfbaf0d0dda",
+  "scope": "Home page two and the World Map trial",
+  "added": [
+    "assets/ultimaterealms/font/world_map.json",
+    "assets/ultimaterealms/textures/gui/world_map/canvas.png",
+    "assets/ultimaterealms/textures/gui/world_map/header.png",
+    "assets/ultimaterealms/textures/gui/world_map/home_tile.png",
+    "assets/ultimaterealms/textures/gui/world_map/marker.png",
+    "assets/ultimaterealms/textures/gui/world_map/spans.png"
+  ]
+}
