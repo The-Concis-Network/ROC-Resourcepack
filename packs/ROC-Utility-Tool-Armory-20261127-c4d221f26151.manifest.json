@@ -1,0 +1,11 @@
+{
+  "file": "ROC-Utility-Tool-Armory-20261127-c4d221f26151.zip",
+  "sha256": "c4d221f261519eecd50240e7b530ae4368b81e69351851ea90bd65e9cba0c1cb",
+  "sha1": "67207ceca75d9c4eb378c600291474199cdc0be8",
+  "scope": "Clean Cut and Wyrm Pop perk slot icons",
+  "added": [
+    "assets/concisitems/textures/gui/armory_utility_perks/perks.png",
+    "assets/concisitems/font/armory_utility_perks_48.json",
+    "assets/concisitems/font/armory_utility_perks_62.json"
+  ]
+}
