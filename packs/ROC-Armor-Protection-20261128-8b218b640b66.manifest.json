@@ -1,0 +1,17 @@
+{
+  "file": "ROC-Armor-Protection-20261128-8b218b640b66.zip",
+  "sha256": "8b218b640b663a9ea421a147f72e633aadda2be95e4e9fba1273705e391e8242",
+  "sha1": "68f6cedc20fe00c5e953b689d8b618a96ed8e73e",
+  "scope": "Three armor perk item-model aliases using existing ROC art",
+  "added": [
+    "assets/concisitems/items/gui/skill_unlocks/blast_protection.json",
+    "assets/concisitems/items/gui/skill_unlocks/cinder_ward.json",
+    "assets/concisitems/items/gui/skill_unlocks/projectile_protection.json",
+    "assets/ultimaterealms/items/catalogue/fit/header/concisitems/gui/skill_unlocks/blast_protection.json",
+    "assets/ultimaterealms/items/catalogue/fit/header/concisitems/gui/skill_unlocks/cinder_ward.json",
+    "assets/ultimaterealms/items/catalogue/fit/header/concisitems/gui/skill_unlocks/projectile_protection.json",
+    "assets/ultimaterealms/items/catalogue/fit/list/concisitems/gui/skill_unlocks/blast_protection.json",
+    "assets/ultimaterealms/items/catalogue/fit/list/concisitems/gui/skill_unlocks/cinder_ward.json",
+    "assets/ultimaterealms/items/catalogue/fit/list/concisitems/gui/skill_unlocks/projectile_protection.json"
+  ]
+}
