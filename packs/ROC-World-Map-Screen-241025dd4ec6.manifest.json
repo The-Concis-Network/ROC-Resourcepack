@@ -1,0 +1,12 @@
+{
+  "file": "ROC-World-Map-Screen-241025dd4ec6.zip",
+  "sha256": "241025dd4ec6da76c0072d558a27d7039731f931e860f8bc049294d9b85323d8",
+  "sha1": "ac32ade80817ae97209c522f32fcc4e3db6ceb52",
+  "scope": "Large World Map with realm claims and cities",
+  "added": [
+    "assets/ultimaterealms/font/world_map_screen.json",
+    "assets/ultimaterealms/textures/gui/world_map_screen/edges.png",
+    "assets/ultimaterealms/textures/gui/world_map_screen/pins.png",
+    "assets/ultimaterealms/textures/gui/world_map_screen/runs.png"
+  ]
+}
