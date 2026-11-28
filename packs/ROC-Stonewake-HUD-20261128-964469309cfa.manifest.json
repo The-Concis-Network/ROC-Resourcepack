@@ -1,0 +1,21 @@
+{
+  "file": "ROC-Stonewake-HUD-20261128-964469309cfa.zip",
+  "sha256": "964469309cfa6d9ae68a37028eb80f529efbe156f043f7de6fd35b26ba5c0558",
+  "sha1": "60d0fbf62d78eaa9083c364791a8251ecd45365a",
+  "scope": "Stonewake pushback feedback and stone icon",
+  "added": [
+    "assets/roc_hud/font/combat_text_high.json",
+    "assets/roc_hud/font/combat_text_high_upper.json",
+    "assets/roc_hud/font/combat_text_near.json",
+    "assets/roc_hud/font/combat_text_raised.json",
+    "assets/roc_hud/font/combat_text_raised_upper.json",
+    "assets/roc_hud/font/combat_text_upper.json",
+    "assets/roc_hud/font/combat_timer_text_high.json",
+    "assets/roc_hud/font/combat_timer_text_high_upper.json",
+    "assets/roc_hud/font/combat_timer_text_near.json",
+    "assets/roc_hud/font/combat_timer_text_raised.json",
+    "assets/roc_hud/font/combat_timer_text_raised_upper.json",
+    "assets/roc_hud/font/combat_timer_text_upper.json",
+    "assets/roc_hud/textures/font/combat_feedback_icons.png"
+  ]
+}
