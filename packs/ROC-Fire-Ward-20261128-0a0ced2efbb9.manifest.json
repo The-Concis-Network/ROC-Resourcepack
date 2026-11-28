@@ -1,0 +1,10 @@
+{
+  "file": "ROC-Fire-Ward-20261128-0a0ced2efbb9.zip",
+  "sha256": "0a0ced2efbb9135e759cae79c9038f6c32e2ebc31920e98444fc30e5c89396d6",
+  "sha1": "37a3acf86106e305cf4194f488c866c1eaa38513",
+  "scope": "Fire Ward shield and flame artwork",
+  "added": [
+    "assets/concisitems/textures/gui/armory_shield_perks/perks.png",
+    "assets/concisitems/textures/gui/skill_unlocks/cinder_ward.png"
+  ]
+}
