@@ -1,0 +1,21 @@
+{
+  "file": "ROC-Veilstep-HUD-20261128-e021130b6712.zip",
+  "sha256": "e021130b67120df72cd1598003b4792fddf22238a5ed077502e82b93b4b30109",
+  "sha1": "4328021d605860212c5b86db05f7ce4313579c6d",
+  "scope": "Veilstep speed, duration and HUD boot icon",
+  "added": [
+    "assets/roc_hud/font/combat_text_high.json",
+    "assets/roc_hud/font/combat_text_high_upper.json",
+    "assets/roc_hud/font/combat_text_near.json",
+    "assets/roc_hud/font/combat_text_raised.json",
+    "assets/roc_hud/font/combat_text_raised_upper.json",
+    "assets/roc_hud/font/combat_text_upper.json",
+    "assets/roc_hud/font/combat_timer_text_high.json",
+    "assets/roc_hud/font/combat_timer_text_high_upper.json",
+    "assets/roc_hud/font/combat_timer_text_near.json",
+    "assets/roc_hud/font/combat_timer_text_raised.json",
+    "assets/roc_hud/font/combat_timer_text_raised_upper.json",
+    "assets/roc_hud/font/combat_timer_text_upper.json",
+    "assets/roc_hud/textures/font/combat_feedback_icons.png"
+  ]
+}
