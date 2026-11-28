@@ -1,0 +1,16 @@
+{
+  "file": "ROC-Armor-Perks-Finish-20261128-5d22b0c8d937.zip",
+  "sha256": "5d22b0c8d937be61aa157f2c02b189df7300b3cea072ebc9ff17730550e35754",
+  "sha1": "d78b0aed91980d4e8dff0a339049ede4d148eed9",
+  "scope": "Approved Armory and Collection perk icons",
+  "added": [
+    "assets/concisitems/textures/gui/armory_shield_perks/perks.png",
+    "assets/concisitems/textures/gui/armory_utility_perks/perks.png",
+    "assets/concisitems/textures/gui/skill_unlocks/blast_protection.png",
+    "assets/concisitems/textures/gui/skill_unlocks/clean_cut.png",
+    "assets/concisitems/textures/gui/skill_unlocks/projectile_protection.png",
+    "assets/concisitems/textures/gui/skill_unlocks/unbreaking.png",
+    "assets/concisitems/textures/gui/skill_unlocks/unbreaking_refined.png",
+    "assets/concisitems/textures/gui/skill_unlocks/wyrm_pop.png"
+  ]
+}
