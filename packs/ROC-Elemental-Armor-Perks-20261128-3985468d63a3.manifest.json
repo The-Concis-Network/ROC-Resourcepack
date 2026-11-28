@@ -1,0 +1,32 @@
+{
+  "file": "ROC-Elemental-Armor-Perks-20261128-3985468d63a3.zip",
+  "sha256": "3985468d63a340587fb752cb11fd95067efa8d9f5fa8a0e7e9de480aad684976",
+  "sha1": "bd51719da9222ca1c79a6979ee4ecb45846862db",
+  "scope": "Veilstep, Stonewake and Hex Ward icons",
+  "added": [
+    "assets/concisitems/font/armory_elemental_perks_48.json",
+    "assets/concisitems/font/armory_elemental_perks_62.json",
+    "assets/concisitems/items/gui/skill_unlocks/hex_ward.json",
+    "assets/concisitems/items/gui/skill_unlocks/stonewake.json",
+    "assets/concisitems/items/gui/skill_unlocks/veilstep.json",
+    "assets/concisitems/models/gui/skill_unlocks/hex_ward.json",
+    "assets/concisitems/models/gui/skill_unlocks/stonewake.json",
+    "assets/concisitems/models/gui/skill_unlocks/veilstep.json",
+    "assets/concisitems/textures/gui/armory_elemental_perks/perks.png",
+    "assets/concisitems/textures/gui/skill_unlocks/hex_ward.png",
+    "assets/concisitems/textures/gui/skill_unlocks/stonewake.png",
+    "assets/concisitems/textures/gui/skill_unlocks/veilstep.png",
+    "assets/ultimaterealms/items/catalogue/fit/header/concisitems/gui/skill_unlocks/hex_ward.json",
+    "assets/ultimaterealms/items/catalogue/fit/header/concisitems/gui/skill_unlocks/stonewake.json",
+    "assets/ultimaterealms/items/catalogue/fit/header/concisitems/gui/skill_unlocks/veilstep.json",
+    "assets/ultimaterealms/items/catalogue/fit/list/concisitems/gui/skill_unlocks/hex_ward.json",
+    "assets/ultimaterealms/items/catalogue/fit/list/concisitems/gui/skill_unlocks/stonewake.json",
+    "assets/ultimaterealms/items/catalogue/fit/list/concisitems/gui/skill_unlocks/veilstep.json",
+    "assets/ultimaterealms/models/item/catalogue/fit/header/concisitems/gui/skill_unlocks/hex_ward.json",
+    "assets/ultimaterealms/models/item/catalogue/fit/header/concisitems/gui/skill_unlocks/stonewake.json",
+    "assets/ultimaterealms/models/item/catalogue/fit/header/concisitems/gui/skill_unlocks/veilstep.json",
+    "assets/ultimaterealms/models/item/catalogue/fit/list/concisitems/gui/skill_unlocks/hex_ward.json",
+    "assets/ultimaterealms/models/item/catalogue/fit/list/concisitems/gui/skill_unlocks/stonewake.json",
+    "assets/ultimaterealms/models/item/catalogue/fit/list/concisitems/gui/skill_unlocks/veilstep.json"
+  ]
+}
